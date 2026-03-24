@@ -27779,7 +27779,7 @@
     "name": "The Crazy Hamburger",
     "description": "While this is just a large hamburger, it's laid here for centuries. Only a mad man would dare consume this hamburger.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/83/The_Crazy_Hamburger.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/The_Crazy_Hamburger",
     "properties": {
@@ -30062,7 +30062,7 @@
   {
     "id": 539,
     "name": "Utopian Refiner/Renegade",
-    "description": "|skipthispage=no|include={Quote}:1|includetrim=}}",
+    "description": "The Utopian Refiner sees value in all ores. It offers a massive upgrade and sends you on your way.",
     "category": "Upgrader",
     "tier": "Renegade",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/bc/Utopian_Refiner.png",
@@ -30087,7 +30087,7 @@
   {
     "id": 1127,
     "name": "UZI Manufacturer",
-    "description": "A machines that mass-produces the UZI, a modern rapid-fire weapon with high damage and short range.",
+    "description": "A machine that mass-produces the UZI, a modern rapid-fire weapon with high damage and short range.",
     "category": "Utility",
     "tier": "Refined",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/5a/UZI_Manufacturer_HD.png",
@@ -30114,7 +30114,7 @@
     "name": "V-tolite Mine",
     "description": "Pilotite has limitations, being stuck in an upward motion. It has overcome that barrier, and has a jet mode now! -batteries not included-",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/f0/V-tolite_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/V-tolite_Mine",
     "properties": {
@@ -30215,7 +30215,7 @@
     "name": "Vampiric Gift of Slumber",
     "description": "This gift has a strong scent of garlic.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/2c/Vampiric_Gift_of_Slumber.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Vampiric_Gift_of_Slumber",
     "properties": {
@@ -30394,7 +30394,7 @@
     "name": "Video Game Digitalizer",
     "description": "The best in town! This upgrader turns silicon ore into entire working game consoles! This upgrader increases present value by 25.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/29/Video_Game_Digitalizer.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Video_Game_Digitalizer",
     "properties": {
@@ -30417,7 +30417,7 @@
     "name": "Virtual Enchanter",
     "description": "An upgrader from an artificial universe. It seems to digitalize our reality surrounding it.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Advanced Evolution",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/38/Virtual_Enchanter.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Virtual_Enchanter",
     "properties": {
@@ -30585,7 +30585,7 @@
     "name": "Void Star",
     "description": "Such darkness. To think one day, the universe will go dark, never to experience light ever again. This upgrader shall be a reminder of the impending death of reality.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Advanced Evolution",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/de/Void_Star.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Void_Star",
     "properties": {
@@ -31052,7 +31052,7 @@
     "name": "Wholesam Plushie",
     "description": "How could you?",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleEaster",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/57/Wholesam_Plushie.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Wholesam_Plushie",
     "properties": {
@@ -31250,7 +31250,7 @@
     "name": "Witch Doge",
     "description": "A doge trained by Meralin himself. Not to learn spells, but just to glow in the dark.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/f3/Witch_Doge.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Witch_Doge",
     "properties": {
@@ -31606,7 +31606,7 @@
     "name": "Zenith Will",
     "description": "The existence of the supreme beings of this land were often told in fairy tales. However this infuser proves the existence of those deities, for this infuser was used to store their primal power.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/33/Zenith_Will.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Zenith_Will",
     "properties": {
