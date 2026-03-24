@@ -18798,13 +18798,13 @@
   {
     "id": 314,
     "name": "Ore Memer",
-    "description": "The shouts... they were true? The Ore Memer actually exists!?",
+    "description": "The shouts.. they were true? The Ore Memer actually exists!?",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/6d/Ore_Memer.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Memer",
     "properties": {
-      "Tier": "Rare Reborn",
+      "Tier": "Reborn",
       "Item Size": "4x8x3",
       "Date Added": "18 November, 2019",
       "Created By": "OutOfOrderFoxy",
