@@ -26740,7 +26740,7 @@
     "name": "Supreme Birthday Cake",
     "description": "The granddaddy of all birthday cakes. You'd expect nothing less from the 3rd Anniversary event.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "ExoticBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/85/Supreme_Birthday_Cake.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Supreme_Birthday_Cake",
     "properties": {
@@ -26837,7 +26837,7 @@
     "name": "Suspicious Refrigerator",
     "description": "Anybody need a new refrigerator?",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Divine",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/cb/Suspicious_Refrigerator.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Suspicious_Refrigerator",
     "properties": {
@@ -26925,7 +26925,7 @@
     "name": "Sweet Tooth",
     "description": "The sweetest furnace in Miner's Haven! 2016 Holiday Collectible.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c5/Sweet_Tooth.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Sweet_Tooth",
     "properties": {
@@ -27124,7 +27124,7 @@
     "name": "Symmetryte Mine",
     "description": "Unlocked version of Symmetrium that can produce many ores at once. Will break if more than one is placed down. Ores stop being upgraded if they lose their fire.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/ce/Symmetryte_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Symmetryte_Mine",
     "properties": {
@@ -27153,7 +27153,7 @@
     "name": "Tainted Gift of Blood",
     "description": "This gift emits a strong and deadly aura. Be careful, opening this may bring the attention of the cats.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/b3/Tainted_Gift_of_Blood.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Tainted_Gift_of_Blood",
     "properties": {
@@ -27172,8 +27172,8 @@
     "id": 976,
     "name": "Talon's Bakeshop",
     "description": "It's cake in a vending machine, what more could you ask for?",
-    "category": "Upgrader",
-    "tier": "Unknown",
+    "category": "Decoration",
+    "tier": "Divine",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/83/Talon%27s_Bakeshop.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Talon's_Bakeshop",
     "properties": {
@@ -27194,7 +27194,7 @@
     "name": "Tankium Mine",
     "description": "The producer of this item says it is more like a tank than a mine. We do not suggest seriously using this.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/80/Tankium_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Tankium_Mine",
     "properties": {
@@ -27272,7 +27272,7 @@
     "name": "Teddy Bear Stuffer",
     "description": "A more decent toy upgrader. It'll convert your silicon ore into teddy bears!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/50/Teddy_Bear_Stuffer.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Teddy_Bear_Stuffer",
     "properties": {
