@@ -28270,7 +28270,7 @@
   {
     "id": 500,
     "name": "The Grand Prism/Renegade",
-    "description": "|skipthispage=no|include={Quote}:1|includetrim=}}",
+    "description": "Most miners will live out their entire lives having never gazed upon the beauty and grace of the mythic Grand Prism",
     "category": "Upgrader",
     "tier": "Renegade",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/21/The_Grand_Prism.png",
@@ -28398,7 +28398,7 @@
   {
     "id": 485,
     "name": "The Heartbreaker",
-    "description": "An upgrader with a broken and hardened heart. It shows so [sic] mercy to ore when upgrading, and is rather random with its upgrades.",
+    "description": "An upgrader with a broken and hardened heart. It shows so mercy to ore when upgrading, and is rather random with its upgrades.",
     "category": "Upgrader",
     "tier": "ExoticValentines",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/49/The_Heartbreaker.png",
@@ -28635,7 +28635,7 @@
     "name": "The Rock",
     "description": "So it turns out that a rock you got from Halloween was good for something afterall.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/db/The_Rock.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/The_Rock",
     "properties": {
@@ -28872,7 +28872,7 @@
     "name": "The Vault",
     "description": "RBLX to the moon! This furnace value scales 1:1 off of what the Stock is traded for.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/d8/The_Vault.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/The_Vault",
     "properties": {
@@ -28990,7 +28990,7 @@
     "name": "Thrust Pad",
     "description": "A futuristic pad that sends people flying much higher into the air than regular jump pads.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Premium",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/1b/Thrust_Pad_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Thrust_Pad",
     "properties": {
@@ -29037,7 +29037,7 @@
     "name": "Timed Ore Gate",
     "description": "A conveyor which opens and closes to allow or block ore within a set time interval.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/66/Timed_Ore_Gate.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Timed_Ore_Gate",
     "properties": {
@@ -29083,7 +29083,7 @@
     "name": "Tinker Table",
     "description": "A table for miners who prefer to build their own mines.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Epic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/94/Tinker_Table.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Tinker_Table",
     "properties": {
@@ -29125,7 +29125,7 @@
   {
     "id": 979,
     "name": "Toothpick Wall",
-    "description": "A pretty neat looking wall, kind of looks like someone carved the wooden wall into this. Be careful though, the points are unbeliably [sic] sharp.",
+    "description": "A pretty neat looking wall, kind of looks like someone carved the wooden wall into this. Be careful though, the points are unbeliably sharp.",
     "category": "Decoration",
     "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/99/Toothpick_Wall.png",
@@ -29215,7 +29215,7 @@
     "name": "Toxic Waste Disposal",
     "description": "Toxic waste so dangerous that even standing near this upgrader is enough to give third degree burns.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/0e/Toxic_Waste_Disposal.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Toxic_Waste_Disposal",
     "properties": {
@@ -29245,7 +29245,7 @@
     "name": "Toy Altar",
     "description": "A decorative altar awarded to those who obtained the berezaa Roblox toy in the mystical realm of life.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/53/Toy_Altar.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Toy_Altar",
     "properties": {
@@ -29264,7 +29264,7 @@
     "name": "Transylvanian Gift of Flames",
     "description": "This present emits a burning aura. While the wrapping paper looks like fire, something certainly is burning still",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/16/Transylvanian_Gift_of_Flames.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Transylvanian_Gift_of_Flames",
     "properties": {
@@ -29334,7 +29334,7 @@
   {
     "id": 965,
     "name": "Tree-Shaped Gift",
-    "description": "i[sic] promise there isn't tree on this gift!",
+    "description": "I promise there isn't tree on this gift!",
     "category": "Decoration",
     "tier": "ExoticHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/14/Tree-Shaped_Gift.png",
@@ -29367,7 +29367,7 @@
     "name": "Triple Coal Mine",
     "description": "An advanced coal mine that instantly drops 3 coal ores every 4 seconds while still being the same size as a regular coal mine.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Premium",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/1d/Triple_Coal_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Triple_Coal_Mine",
     "properties": {
@@ -29436,7 +29436,7 @@
     "name": "Tropical Breeze",
     "description": "Nothing quite like a warm tropical breeze flowing through you. Sit back and relax, this upgrader's got you covered.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/6d/Tropical_Breeze.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Tropical_Breeze",
     "properties": {
@@ -29464,7 +29464,7 @@
     "name": "Tropical Holidays",
     "description": "So whoever wrapped this gift seems to have taken their entire vacation spot and put it all in a bag. It is unclear how this was possible.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/74/Tropical_Holidays.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Tropical_Holidays",
     "properties": {
@@ -29489,7 +29489,7 @@
     "name": "True Book of Knowledge",
     "description": "Passed down through the gods: The True Book of Knowledge. Unlike the fake book you got from Enchanting, this tome contains the knowledge behind Superstitious items.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/d6/True_Book_of_Knowledge.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/True_Book_of_Knowledge",
     "properties": {
@@ -29537,7 +29537,7 @@
     "name": "Tsar Bomba",
     "description": "This beast of an upgrader has the power of 3,000 atomic bombs! It can be used 3 times, however has a chance of making ore radioactive if used more than once.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/6e/Tsar_Bomba.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Tsar_Bomba",
     "properties": {
@@ -29598,11 +29598,11 @@
     "name": "Turtle Dignifier",
     "description": "The turtles were a distant enemy of the frogs. No one messed with the turtles, as they were born with the most powerful armor during the Anura era.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/cf/Turtle_Dignifier.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Turtle_Dignifier",
     "properties": {
-      "Tier": "Rare Reborn",
+      "Tier": "Reborn",
       "Created By": "Supz_Boi",
       "Item Size": "5x6x3",
       "Date Added": "12 June, 2021",
@@ -29628,7 +29628,7 @@
     "name": "Twitch Scanner",
     "description": "An advanced scanner for twitch viewers that adds $1k to the value of an ore and then quintuples it. Doesn't work with other scanners.",
     "category": "Upgrader",
-    "tier": "Premium",
+    "tier": "PremiumTwitch",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/fa/Twitch_Scanner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Twitch_Scanner",
     "properties": {
@@ -29655,7 +29655,7 @@
     "name": "Twitch Wall",
     "description": "Sport your twitch fandom with this awesome fancy Twitch security wall.",
     "category": "Decoration",
-    "tier": "Collectible",
+    "tier": "CollectibleTwitch",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/08/Twitch_Wall.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Twitch_Wall",
     "properties": {
@@ -29672,7 +29672,7 @@
     "name": "Twitch-Powered Upgrader",
     "description": "An upgrader that uses the magical power of berezaa's twitch to upgrade ores by 60%. Can only upgrade ores once.",
     "category": "Upgrader",
-    "tier": "Premium",
+    "tier": "PremiumTwitch",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/f9/Twitch-Powered_Upgrader.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Twitch-Powered_Upgrader",
     "properties": {
@@ -29697,7 +29697,7 @@
     "name": "Twitchite Mine",
     "description": "A high-caliber mine that still functions with cell furnaces. Ores are worth more depending on how many Twitch coins you have.",
     "category": "Dropper",
-    "tier": "Exotic",
+    "tier": "ExoticTwitch",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a0/Twitchite_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Twitchite_Mine",
     "properties": {
@@ -29817,7 +29817,7 @@
     "name": "Undead Doge Plushie",
     "description": "Words cannot describe the pure horror that this plushie inspires. A relic from the 2015 Halloween Event.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/88/Undead_Doge_Plushie.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Undead_Doge_Plushie",
     "properties": {
@@ -29949,9 +29949,9 @@
   {
     "id": 975,
     "name": "Unobtainium Wall",
-    "description": "How did you get this wall? It's unobtainable!",
+    "description": "How did you get this wall, it's unobtainable!",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Refined",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/58/Unobtainium_Wall.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Unobtainium_Wall",
     "properties": {
@@ -29988,7 +29988,7 @@
     "id": 986,
     "name": "Update Board",
     "description": "A board that displays the most important information from the latest Miner's Haven update. Useful to have down on your base at all times.",
-    "category": "Decoration",
+    "category": "Utility",
     "tier": "Unique",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/34/Update_Board.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Update_Board",
@@ -30012,7 +30012,7 @@
     "name": "Uranium Mine",
     "description": "Uranium may be highly radioactive and generally unsafe, but boy does it make good money on the open market.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Uncommon",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c1/Uranium_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Uranium_Mine",
     "properties": {
