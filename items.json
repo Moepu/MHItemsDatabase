@@ -53,7 +53,7 @@
     "name": "100M Upgrader",
     "description": "An upgrader to celebrate 100 million visits. Check social media for a code to get this for free.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Collectible",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/93/100M_Upgrader.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/100M_Upgrader",
     "properties": {
@@ -577,7 +577,7 @@
     "name": "Ambrosia Mine",
     "description": "Ambrosia is the mythical food of the ancient greek gods. Our scientists have found that this material is real!",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Legendary",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/3e/Ambrosia_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ambrosia_Mine",
     "properties": {
@@ -630,7 +630,7 @@
     "name": "Ancient Coliseum",
     "description": "The ancient enlightened people hated randomness. This powerful evolved item builds upon the math of its predecessor.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/66/Ancient_Coliseum.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ancient_Coliseum",
     "properties": {
@@ -660,7 +660,7 @@
     "name": "Ancient Gift of Skulls",
     "description": "The skulls, they are screaming at each other.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/72/Ancient_Gift_of_Skulls.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ancient_Gift_of_Skulls",
     "properties": {
@@ -680,7 +680,7 @@
     "name": "Ancient Gift of the Catacombs",
     "description": "Some wise guy really just took a styrofoam tombstone and put a bow on it.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/1e/Ancient_Gift_of_the_Catacombs.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ancient_Gift_of_the_Catacombs",
     "properties": {
@@ -891,7 +891,7 @@
     "name": "Anti-Gravity Device",
     "description": "A device which seems to reverse the properties of gravity, causing ore to float upward.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Hydraulic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/94/Anti-Gravity_Device.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Anti-Gravity_Device",
     "properties": {
@@ -915,7 +915,7 @@
     "name": "Anti-Gravity Scanner",
     "description": "An item that not only violates the standard upgrader, but also violates the standards of scanners. Rather than a horizontal scanner, this is a vertical scanner!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Hydraulic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/87/Anti-Gravity_Scanner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Anti-Gravity_Scanner",
     "properties": {
@@ -1017,7 +1017,7 @@
     "name": "Arachnid Mine",
     "description": "A powerful but very scary mine. Don't look into its eyes. Halloween 2017 Item.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/60/Arachnid_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Arachnid_Mine",
     "properties": {
@@ -1041,7 +1041,7 @@
     "name": "Arcane Lightning",
     "description": "One of the most powerful upgraders in the world. Rapidly click the button to grow an insane charge. The charge won't deplete unless it is neglected.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Advanced Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/34/Arcane_Lightning.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Arcane_Lightning",
     "properties": {
@@ -1071,7 +1071,7 @@
     "name": "Aromatic Holidays",
     "description": "Ah yes. The nostalgic setting of the holidays. Even in the freezing temperature, this item warms your heart.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/40/Aromatic_Holidays.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Aromatic_Holidays",
     "properties": {
@@ -1180,7 +1180,7 @@
     "name": "Atlantic Monolith",
     "description": "Miles off the coast of the Haven, a diver found ancient underwater ruins. Someone then thought \"Hey lemme put a conveyor through that!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/2e/Atlantic_Monolith.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Atlantic_Monolith",
     "properties": {
@@ -1209,7 +1209,7 @@
     "name": "Atlantic Monument",
     "description": "Oooooh who lives in an ocean monument under the sea?",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/03/Atlantic_Monument.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Atlantic_Monument",
     "properties": {
@@ -1238,7 +1238,7 @@
     "name": "Atmospheric Steamwork",
     "description": "A device that used to fill the skies during the steampunk era. Today, people confuse this as a UFO.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/82/Atmospheric_Steamwork.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Atmospheric_Steamwork",
     "properties": {
@@ -1404,7 +1404,7 @@
     "name": "Australis Fornacem",
     "description": "Aurora, who is the goddess of space, was once believed to contain powers of ice and fire. Her fire side was immensely powerful. Thus making this tribute furnace split upon 4 items. Currently the other 3 components are unknown.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Decimal Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/7d/Australis_Fornacem.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Australis_Fornacem",
     "properties": {
@@ -1494,7 +1494,7 @@
     "name": "Awakened Jack O Lantern",
     "description": "Every Halloween, the empty husks of pumpkins would ignite, spreading fear amongst the land.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "RelicHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a8/Awakened_Jack_O_Lantern.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Awakened_Jack_O_Lantern",
     "properties": {
@@ -1514,7 +1514,7 @@
     "name": "Awkwardly Shaped Gift of Fangs",
     "description": "At first glance, this looks like someone just wrapped up a banana. But Santa assures you it's a fang.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/46/Awkwardly_Shaped_Gift_of_Fangs.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Awkwardly_Shaped_Gift_of_Fangs",
     "properties": {
@@ -1671,7 +1671,7 @@
     "name": "Baleful Gift of Harvest",
     "description": "Santa tried warning you that this was just a pumpkin wrapped up. But it seems that didn't stop you from buying it.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/db/Baleful_Gift_of_Harvest.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Baleful_Gift_of_Harvest",
     "properties": {
@@ -1690,7 +1690,7 @@
     "name": "Banana Split Upgrader",
     "description": "Bananas are an excellent source of potassium!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/fd/Banana_Split_Upgrader.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Banana_Split_Upgrader",
     "properties": {
@@ -1929,7 +1929,7 @@
     "name": "Behemoth Blossom",
     "description": "This flower was only a seed last night. In the morning it was consuming the entire backyard! Its pollen is capable of making ore grow!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Slipstream",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e9/Behemoth_Blossom.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Behemoth_Blossom",
     "properties": {
@@ -1955,7 +1955,7 @@
   {
     "id": 39,
     "name": "Behemoth Blossom/Renegade",
-    "description": " · skipthispage=no · include={Quote}:1 · includetrim=}}",
+    "description": "This flower was only a seed last night. In the morning it was consuming the entire backyard! Its pollen is capable of making ore grow!",
     "category": "Upgrader",
     "tier": "Renegade",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e9/Behemoth_Blossom.png",
@@ -2102,7 +2102,7 @@
     "name": "Big Alberto",
     "description": "A device used by the D.U.C during the galactic war against the Dracoherds. This device blasted gamma rays, reducing their fleets to nothing but space debris.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Advanced Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/9e/Big_Alberto.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Big_Alberto",
     "properties": {
@@ -2187,7 +2187,7 @@
     "name": "Big Bunny",
     "description": "Easter always has the strange tendency to cause bunnies to migrate to the Haven. They have infested the entire mystery box pools!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "ExoticEaster",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/5d/Big_Bunny.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Big_Bunny",
     "properties": {
@@ -2333,7 +2333,7 @@
     "name": "Birthday Doge",
     "description": "It's Doge's Birthday, wish Doge a happy birthday. DO IT WISH DOGE A HAPPY BIRTHDAY!",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectiblBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/25/Birthday_Doge.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Birthday_Doge",
     "properties": {
@@ -2395,7 +2395,7 @@
     "name": "Birthday Table",
     "description": "A wholesome little table equipped with all the birthday necessities!",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/b7/Birthday_Table.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Birthday_Table",
     "properties": {
@@ -2440,7 +2440,7 @@
     "name": "Bismuth Mine",
     "description": "Lots of rich people like using B ismuth [sic] in jewlery [sic] or something. Doesn't matter, you'll get rich off of it!",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Super Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/64/Bismuth_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Bismuth_Mine",
     "properties": {
@@ -2495,7 +2495,7 @@
     "name": "Blade of Catastrophe",
     "description": "During the crisis between the lords, King Hendrix used this blade to smite down Daegel in attempts to weaken him. The blade was corrupted with Daegel's power after Hendrix's death, turning it into a blade of pure calamity. The blade has been kept a secret by The Craftsman for centuries, until revealing it to you.\" (ITEM DOCUMENT DESCRIPTION)",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "???",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/51/Blade_of_Catastrophe.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Blade_of_Catastrophe",
     "properties": {
@@ -2715,7 +2715,10 @@
   {
     "id": 1001,
     "name": "Blue Ore Teleporter",
-    "description": "",
+    "description": {
+      "Sender": "Super advanced technology that teleporters ore to a receiver. If more than 1 receiver is down, it will pick one at random. REQUIRES A RECEIVER TELEPORTER.",
+      "Receiver": "A wide conveyor that teleported ore appears at. Requires a sender teleporter to work. If there is more than one receiver, teleports will pick them at random.",
+    },
     "category": "Utility",
     "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/06/Ore_Teleporter_%28Sender%29_HD.png",
@@ -2985,7 +2988,7 @@
     "name": "Breached Motherboard",
     "description": "Whether this is a warning, threat, or if it just got the blue screen of death, something is dangerously wrong with this computer.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a0/Breached_Motherboard.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Breached_Motherboard",
     "properties": {
@@ -3166,7 +3169,7 @@
     "name": "Bunch 'O Balloons",
     "description": "A small group of balloons anchored down to stop them from floating away. Can't throw a party without balloons!",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/08/Bunch_%27O_Balloons.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Bunch_'O_Balloons",
     "properties": {
@@ -3185,7 +3188,7 @@
     "name": "Bunny Infuser",
     "description": "Infuses you with the power of a literal rabbit. Not the strength of one, but the agility.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "ExoticEaster",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/98/Bunny_Infuser.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Bunny_Infuser",
     "properties": {
@@ -3293,7 +3296,7 @@
   {
     "id": 56,
     "name": "Burst Refiner/Renegade",
-    "description": " · skipthispage=no · include={Quote}:1 · includetrim=}}",
+    "description": "Charges up energy as ore passes through and bursts all of its power into a single ore when it's full. Vanishes when you rebirth.",
     "category": "Upgrader",
     "tier": "Renegade",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/4a/Burst_Refiner.png",
@@ -3321,7 +3324,7 @@
     "name": "Cactus Mirage",
     "description": "Your ores witness a mirage, an oasis in the desert. They quench their thirst, but in reality, they are blazing hot.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/70/Cactus_Mirage.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Cactus_Mirage",
     "properties": {
@@ -3417,7 +3420,7 @@
     "name": "Candy Cane Particle",
     "description": "The best part of the holidays? Candy canes! Show off your love for sugary festive treats with this unique character particle. 2017 Holiday item.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/12/Candy_Cane_Particle.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Candy_Cane_Particle",
     "properties": {
@@ -3437,7 +3440,7 @@
     "name": "Candy Castle",
     "description": "A castle for the king of candy to reside, King Candy Corneleous. This adds candy value to ore.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/16/Candy_Castle.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Candy_Castle",
     "properties": {
@@ -3647,7 +3650,7 @@
     "name": "Candy Research Center",
     "description": "A Research Center that DOES NOT generate candy. Instead will generate for every 25 ore worth $50k.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/46/Candy_Research_Center.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Candy_Research_Center",
     "properties": {
@@ -3707,7 +3710,7 @@
     "name": "Candycorn Refiner",
     "description": "Candy Corn, some hate it, some love it. But no matter which side of the spectrum you're on, both must agree this is an effective use of it. This adds candy value to ores",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/3b/Candycorn_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Candycorn_Refiner",
     "properties": {
@@ -3873,7 +3876,7 @@
     "name": "Carrot Farm",
     "description": "That'll hold 'em alright heheheheheh",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleEaster",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/01/Carrot_Farm.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Carrot_Farm",
     "properties": {
@@ -3951,7 +3954,7 @@
     "name": "Castle Bravo",
     "description": "A doomsday device which destroyed entire solar systems during the wars against the Valkyrians. The Dracoherds wer [sic] only the beginning of the D.U.C and its galactic Empire.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Advabced Evolution",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/4f/Castle_Bravo.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Castle_Bravo",
     "properties": {
@@ -4044,7 +4047,7 @@
     "name": "Catalyst of Blood Magic",
     "description": "This catalyst strangely reminds you of an old [https://azuremines.fandom.com/wiki/Billy%27s_Swag_Shop Swag Shop].",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c7/Catalyst_of_Blood_Magic.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Blood_Magic",
     "properties": {
@@ -4110,7 +4113,7 @@
     "name": "Catalyst of Destruction",
     "description": "To the typical individual this catalyst doesn't mean anything to you. To a dreamer however this catalyst is the embodiment of all evil.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/80/Catalyst_of_Destruction.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Destruction",
     "properties": {
@@ -4133,7 +4136,7 @@
     "name": "Catalyst of Earth",
     "description": "A catalyst which seems to radiate energy powerful enough to cause subtle quakes in the surrounding area.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/ff/Catalyst_of_Earth.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Earth",
     "properties": {
@@ -4156,7 +4159,7 @@
     "name": "Catalyst of Fire",
     "description": "Staring at this catalyst fills you with anger, as it reminds you of the eruption that destroyed your previous home.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/64/Catalyst_of_Fire.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Fire",
     "properties": {
@@ -4179,7 +4182,7 @@
     "name": "Catalyst of Fortune",
     "description": "This catalyst seems to slowly give you the understanding to how the Baron has reached such tremendous life.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/63/Catalyst_of_Fortune.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Fortune",
     "properties": {
@@ -4202,7 +4205,7 @@
     "name": "Catalyst of Knowledge",
     "description": "This catalyst seems to remind you of The Ultimate Sacrifice, an upgrader you held onto long ago.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/1b/Catalyst_of_Knowledge.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Knowledge",
     "properties": {
@@ -4224,7 +4227,7 @@
     "name": "Catalyst of Light",
     "description": "This catalyst reminds you of the stars above. You also remember the unfortunate fate of those stars, and of your world.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/aa/Catalyst_of_Light.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Light",
     "properties": {
@@ -4246,7 +4249,7 @@
     "name": "Catalyst of Magic",
     "description": "This catalyst doesn't seem to remind you of the wizard who lives in the tower.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a2/Catalyst_of_Magic.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Magic",
     "properties": {
@@ -4269,7 +4272,7 @@
     "name": "Catalyst of Nature",
     "description": "This catalyst reminds you of the various landscapes you once wandered during your time here in the haven.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a3/Catalyst_of_Nature.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Nature",
     "properties": {
@@ -4315,7 +4318,7 @@
     "name": "Catalyst of Oblivion",
     "description": "This Catalyst reminds you of the Eternal Overseers within the Void. Or maybe not?",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/bd/Catalyst_of_Oblivion.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Oblivion",
     "properties": {
@@ -4338,7 +4341,7 @@
     "name": "Catalyst of Power",
     "description": "This catalyst reminds you of a world where every person will control their own destiny, a land of the truly free!",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/49/Catalyst_of_Power.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Power",
     "properties": {
@@ -4361,7 +4364,7 @@
     "name": "Catalyst of Space",
     "description": "This catalyst reminds you of your inevitable cosmic destruction.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/06/Catalyst_of_Space.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Space",
     "properties": {
@@ -4384,7 +4387,7 @@
     "name": "Catalyst of Spirits",
     "description": "A rather spooky looking catalyst, for you can see right through it!",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/5d/Catalyst_of_Spirits.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Spirits",
     "properties": {
@@ -4407,7 +4410,7 @@
     "name": "Catalyst of the Supreme",
     "description": "You can feel immense power flowing through your veins by simply standing by this. Whether it fuels you or destroys you is uncertain.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/6f/Catalyst_of_the_Supreme.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_the_Supreme",
     "properties": {
@@ -4430,7 +4433,7 @@
     "name": "Catalyst of Thunder",
     "description": "This catalyst reminds you a lot of the man in golden armor who you saw in the Sporest. It seems he was a god all this time!",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/03/Catalyst_of_Thunder.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Thunder",
     "properties": {
@@ -4452,7 +4455,7 @@
     "name": "Catalyst of Time",
     "description": "This catalyst reminds you of.. nothing, for you can't remember a time that didn't exist.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/38/Catalyst_of_Time.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Time",
     "properties": {
@@ -4472,7 +4475,7 @@
     "name": "Catalyst of Void",
     "description": "A catalyst that seems to echo out to you. Whether it's Daegel's Words, or the void calling out to you once again.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/77/Catalyst_of_Void.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Catalyst_of_Void",
     "properties": {
@@ -4489,16 +4492,6 @@
       "Sell Value": "Can't Sell",
       "Life Required": "S+2000+"
     }
-  },
-  {
-    "id": 1031,
-    "name": "Catalysts",
-    "description": "",
-    "category": "Utility",
-    "tier": "Unknown",
-    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/77/Catalyst_of_Void.png",
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Catalysts",
-    "properties": {}
   },
   {
     "id": 63,
@@ -4535,7 +4528,7 @@
     "name": "Cell Collider",
     "description": "Harnesses the power of subatomic megacollisions to process unupgraded ore at incredible rates.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Mythic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/54/Cell_Collider.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Cell_Collider",
     "properties": {
@@ -4640,7 +4633,7 @@
     "name": "Cell Singularity",
     "description": "The possibilities are getting limited. It is about time we've started to throw ore into small black holes.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Mythic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e0/Cell_Singularity.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Cell_Singularity",
     "properties": {
@@ -4857,7 +4850,7 @@
     "name": "Chocolate Coater",
     "description": "A comically large chocolate bar. Ore are upgraded normally, however flaming ore gets put out while also earning a rich coat of chocolate. This adds candy value to ore.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/83/Chocolate_Coater.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Chocolate_Coater",
     "properties": {
@@ -4885,7 +4878,7 @@
     "name": "Chocolate Cupcake",
     "description": "Sorry, there wasn't a vanilla option, there's only chocolate flavored cupcakes.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "ExoticBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a8/Chocolate_Cupcake.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Chocolate_Cupcake",
     "properties": {
@@ -5046,7 +5039,7 @@
   {
     "id": 68,
     "name": "Citrus Enhancer",
-    "description": "",
+    "description": "Such a mighty orange. Don't attempt to consume anything from this orange, it is not safe, at least not after sending your ore through it.",
     "category": "Upgrader",
     "tier": "ExoticSpring",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/5e/Citrus_Enhancer.png",
@@ -5303,7 +5296,7 @@
     "name": "Coconut Drencher",
     "description": "Shockingly, coconut milk can work wonders to ore, processing them as if 1 ore was 2!",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/73/Coconut_Drencher.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Coconut_Drencher",
     "properties": {
@@ -5399,11 +5392,11 @@
     "name": "Confetti Cannon",
     "description": "A miniature cannon which blasts confetti out! Perfect for throwing parties.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/6d/Confetti_Cannon.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Confetti_Cannon",
     "properties": {
-      "Tier": "Collectible",
+      "Tier": "CollectibleBirthday",
       "Item Size": "2x1x2",
       "Date Added": "12 June, 2020",
       "Created By": "hoshiisan",
@@ -5436,7 +5429,7 @@
     "name": "Conquered Wasteland",
     "description": "The lands Darkseed would conquer are said to grow corrupted. This corruption is impossible to fight, making Darkseed its eternal king.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/5d/Conquered_Wasteland.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Conquered_Wasteland",
     "properties": {
@@ -5551,7 +5544,7 @@
     "name": "Cooling Chamber",
     "description": "A machine which performs an outstanding job at cooling down flaming ore! However with all its work, it's bound to overheat and degrade value.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/22/Cooling_Chamber.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Cooling_Chamber",
     "properties": {
@@ -5582,7 +5575,7 @@
     "name": "Copper Mine",
     "description": "This mine produces a burst of valuable copper every now and then.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Common",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/bc/Copper_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Copper_Mine",
     "properties": {
@@ -5627,7 +5620,7 @@
     "name": "Corner Web Flooring",
     "description": "This isn't actually a flooring, it's just a quarter of a real spider web.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/de/Corner_Web_Flooring.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Corner_Web_Flooring",
     "properties": {
@@ -5799,7 +5792,7 @@
     "name": "Crystal Mine",
     "description": "A very shiny mine that produces very shiny crystals.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Uncommon",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c8/Crystal_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Crystal_Mine",
     "properties": {
@@ -5850,7 +5843,7 @@
     "name": "Crystallized Engine",
     "description": "Whether this item digitally upgrades or physically upgrades, nonetheless it's a monster of an upgrader. This engine runs on pure horsepower!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/13/Crystallized_Engine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Crystallized_Engine",
     "properties": {
@@ -5955,7 +5948,7 @@
     "name": "Cupid's Arrow",
     "description": "Cupid's Arrow empowers ore with love and affection. Available during the 2020 Valentine's Day Event.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "ExoticValentines",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/3e/Cupid%27s_Arrow.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Cupid's_Arrow",
     "properties": {
@@ -6025,7 +6018,7 @@
     "name": "CYBEGG9000",
     "description": "Robots once were used to fight the wars for humans. Needless to say robots turned against them. They didn't win, but some of them are used as upgraders today.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/94/CYBEGG9000.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/CYBEGG9000",
     "properties": {
@@ -6175,7 +6168,7 @@
     "name": "Darkmatter Mine",
     "description": "Shaped like a cobra poised to attack, the Darkmatter mine is a scary machine that shows just how far we've come.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Legendary",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/8c/Darkmatter_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Darkmatter_Mine",
     "properties": {
@@ -6239,7 +6232,7 @@
     "name": "Darkseed's Conquest",
     "description": "The sword Darkseed wielded when invading the lands he wished to claim.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/29/Darkseed%27s_Conquest.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Darkseed's_Conquest",
     "properties": {
@@ -6260,7 +6253,7 @@
     "name": "Darkseedium Mine",
     "description": "Typically, when invading land, Darkseed found minerals completely new to him. While it could be something already discovered by the native people, Darkseed called everything new to him \"Darkseedium\".",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/6a/Darkseedium_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Darkseedium_Mine",
     "properties": {
@@ -6458,7 +6451,7 @@
     "name": "Decorated Table",
     "description": "A nice little table that create a pleasant atmosphere in any living room.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Divine",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/5d/Decorated_Table.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Decorated_Table",
     "properties": {
@@ -6520,7 +6513,7 @@
     "name": "Delightful Gift of Sugar",
     "description": "Ever since Santa arrived, you could smell this gift from across the entire island. The sweet smell of homemade cookies is very nostalgic.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "RelicHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/3c/Delightful_Gift_of_Sugar.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Delightful_Gift_of_Sugar",
     "properties": {
@@ -6647,7 +6640,7 @@
     "name": "Demon Core",
     "description": "During the Manhattan Project, a core of plutonium was constructed to be used in the first Atomic Bombs. It's destructive nature earned it the name: \"Demon Core",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e8/Demon_Core.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Demon_Core",
     "properties": {
@@ -6730,7 +6723,7 @@
     "name": "Devil's Spore",
     "description": "A spore which brings catastrophic poisons which never seemed like a creation of Gaia, but more like a creation from the the [sic] devil: Hades.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Advanced Evolution",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/aa/Devil%27s_Spore.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Devil's_Spore",
     "properties": {
@@ -6760,7 +6753,7 @@
     "name": "Deviled Blaster",
     "description": "This blaster makes the Big Bad Blaster look wholesome. Such unfair rage, yet somehow its upgrades are promising.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/8f/Deviled_Blaster.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Deviled_Blaster",
     "properties": {
@@ -6884,7 +6877,7 @@
     "name": "Diamond Mine",
     "description": "Now you've made it to the big league. Diamonds are small but very expensive.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Uncommon",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/cd/Diamond_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Diamond_Mine",
     "properties": {
@@ -6944,7 +6937,7 @@
   {
     "id": 754,
     "name": "Diet Dr. Berza Machine",
-    "description": "",
+    "description": "A soda machine containing sugar-free Dr. Berza. The quality of the soda never passed safety regulations",
     "category": "Decoration",
     "tier": "Divine",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/3d/Diet_Dr._Berza_Machine.png",
@@ -7024,7 +7017,7 @@
     "name": "Dimension Extractor",
     "description": "To this day, the origins of the material this mine harvests is still unknown. What we do know is that we are robbing a dimension of eternal wealth.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "EvolvedReborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/60/Dimension_Extractor.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Dimension_Extractor",
     "properties": {
@@ -7051,7 +7044,7 @@
     "name": "Disco Flooring",
     "description": "Dance till your dead! New Years 2021 exclusive.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Collectible",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/36/Disco_Flooring.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Disco_Flooring",
     "properties": {
@@ -7093,7 +7086,7 @@
     "name": "Donut Refiner",
     "description": "A Donut that glazes your ore in a layer of chocolate!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/83/Donut_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Donut_Refiner",
     "properties": {
@@ -7147,11 +7140,11 @@
     "name": "Doomsday Apparatus",
     "description": "This shrine depicts a relic of a weapon youthful rebels would use against themselves before delving into the War of the Dreamers. It did no damage, but propelled victims to their doom.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "CollectibleBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/77/Doomsday_Apparatus.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Doomsday_Apparatus",
     "properties": {
-      "Tier": "Collectible",
+      "Tier": "CollectibleBirthday",
       "Date Added": "12 June, 2020",
       "Created By": "TarIsAway",
       "Effects": "Gives the Doomsday Apparatus (pillow)",
@@ -7216,7 +7209,7 @@
     "name": "Doomsekkar's War",
     "description": "While Hendrix fought in every war, carrying the side he would be on to victory, Doomsekkar would be the main instigator in every conflict.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e3/Doomsekkar%27s_War.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Doomsekkar's_War",
     "properties": {
@@ -7259,7 +7252,7 @@
     "name": "Doughnut Particle Giver",
     "description": "A particle giver which expresses your love towards donuts!",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/9e/Doughnut_Particle_Giver.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Doughnut_Particle_Giver",
     "properties": {
@@ -7278,7 +7271,7 @@
   {
     "id": 761,
     "name": "Dr.Berza Machine",
-    "description": "",
+    "description": "A soda machine full of yummy Dr Berza soda. Not for human consumption!",
     "category": "Decoration",
     "tier": "Mythic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/41/Dr.Berza_Machine.png",
@@ -7298,7 +7291,7 @@
   {
     "id": 776,
     "name": "Dr.Berza Zer0 Machine",
-    "description": "",
+    "description": "A third-party company tired pitching the idea of a cherry flavored Dr. Berza. Due to a shortage of cherries, they used cherry bombs instead",
     "category": "Decoration",
     "tier": "Divine",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/df/Dr.Berza_Zer0_Machine.png",
@@ -7630,7 +7623,7 @@
     "name": "Dreamer's Blight",
     "description": "The mind of a dreamer can be easily decayed over time. But at that point, it only becomes a nightmare.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Advanced Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/b1/Dreamer%27s_Blight.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Dreamer's_Blight",
     "properties": {
@@ -7758,7 +7751,7 @@
     "name": "Dreamer's Nightmare",
     "description": "Dreams where your worst fears come true are often shrugged off as mere nightmares, figments of your imagination. It's unfortunate, because this nightmare here is YOUR reality.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/26/Dreamer%27s_Nightmare.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Dreamer's_Nightmare",
     "properties": {
@@ -7782,7 +7775,7 @@
     "name": "Dreamer's Sight",
     "description": "The eye of a dreamer does not deceive.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Mythic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/67/Dreamer%27s_Sight.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Dreamer's_Sight",
     "properties": {
@@ -7804,7 +7797,7 @@
     "name": "Dreamer's Terror",
     "description": "It's bizarre how fragile the mind of a dream is. The horror this furnace exhibits makes their mind shatter just by shaking in fear.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/67/Dreamer%27s_Terror.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Dreamer's_Terror",
     "properties": {
@@ -7832,7 +7825,7 @@
     "name": "Dreamer's Valor",
     "description": "To truly be a dreamer means to have control over your dreams, not live in fear by them.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/22/Dreamer%27s_Valor.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Dreamer's_Valor",
     "properties": {
@@ -8026,7 +8019,7 @@
     "name": "Easter Bunny",
     "description": "Aww, what a cute little easter bunny. I'm sure he would never hurt anyone...",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "ExoticEaster",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/04/Easter_Bunny.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Easter_Bunny",
     "properties": {
@@ -8261,7 +8254,7 @@
     "name": "Eggplosive Refiner",
     "description": "Causes ores to spontaneously combust, with lingering explosive effects.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/1d/Eggplosive_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Eggplosive_Refiner",
     "properties": {
@@ -8344,7 +8337,7 @@
     "name": "Eldritch Gift of Void",
     "description": "A strange gift which send a chilling image in your mind; An image of a shadowy hunter armed with scythes, hunting for you in a forest.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/92/Eldritch_Gift_of_Void.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Eldritch_Gift_of_Void",
     "properties": {
@@ -8364,7 +8357,7 @@
     "name": "Electronic Furnace",
     "description": "Advanced technology allows this furnace to process ores at x20, but only while it's being manually activated. Acts like a basic furnace otherwise.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Unique",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/1c/Electronic_Furnace.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Electronic_Furnace",
     "properties": {
@@ -8389,7 +8382,7 @@
     "name": "Elevated Furnace",
     "description": "A high-up furnace which processes ore at an impressive five times their value, as long as you can get the ore into it.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/19/Elevated_Furnace.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Elevated_Furnace",
     "properties": {
@@ -8544,7 +8537,7 @@
     "name": "Energy Core",
     "description": "This technology isn't even from this world, it's from the society which conquered IO, a moon of Jupiter. Upgrades ore nearby.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/b1/Energy_Core.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Energy_Core",
     "properties": {
@@ -8787,7 +8780,7 @@
     "name": "Everlasting Key",
     "description": "A sacred key which grants the ability to make the temporary last forever.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Decimal Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/76/Everlasting_Key.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Everlasting_Key",
     "properties": {
@@ -8940,25 +8933,6 @@
     }
   },
   {
-    "id": 763,
-    "name": "Explosive Infuser",
-    "description": "Infuses you with 2+ speed and causes you to explode when you die. Any kills by your explosion counts towards you. You can only be infused once per life.",
-    "category": "Decoration",
-    "tier": "Unknown",
-    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/51/Cursed_Infuser.png",
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Explosive_Infuser",
-    "properties": {
-      "Item Size": "4x4x3",
-      "Date Added": "16 August, 2015",
-      "Created By": "Berezaa",
-      "Date Removed": "31 March, 2016",
-      "Effects": "Gives player additional 2 walkspeed; causes an explosion when user dies",
-      "Reborn Proof": "No",
-      "Reason": "Removal of PvP",
-      "Categories": "Utility"
-    }
-  },
-  {
     "id": 160,
     "name": "Famished Farm",
     "description": "The collapsed remains of a barnyard belonging to a farm swept by drought, killing all the crops.",
@@ -9020,7 +8994,9 @@
   {
     "id": 779,
     "name": "Fargield's Toppling Tablet™️",
-    "description": "",
+    "description": {
+      "Straight": "The cats are probably trying to tell us something, maybe they're trying to tell us that one course of action will result in a domino effect",
+      "Turned": "Maybe the domino effect is very true today, who knows. It doesn't matter though, what does matter is you have some dominoes with Fargield's face on them.",
     "category": "Decoration",
     "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/5f/Fargield%27s_Toppling_Tablet%E2%84%A2%EF%B8%8F.png",
@@ -9180,7 +9156,7 @@
     "name": "Fidget Spinner-ifier",
     "description": "An underlooked toy upgrader. Whether you like it or not, this turns silicon ore into fidget spinners.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/ed/Fidget_Spinner-ifier.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Fidget_Spinner-ifier",
     "properties": {
@@ -9225,7 +9201,7 @@
     "name": "Final Eclipse Gate",
     "description": "The final gate draws on the power of the eclipse to do mysterious things to ores. Strange magic keeps ore contained within the gate.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/64/Final_Eclipse_Gate.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Final_Eclipse_Gate",
     "properties": {
@@ -9332,7 +9308,7 @@
     "name": "Fire-Blast Upgrader",
     "description": "An upgrader very similar to the Freon-Blast Upgrader, except it blasts fire. While it shares the same money limit as Freon, it'll upgrade faster, but catch ore on fire.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Epic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/9a/Fire-Blast_Upgrader.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Fire-Blast_Upgrader",
     "properties": {
@@ -9457,7 +9433,7 @@
     "name": "Firework Mine",
     "description": "Now who said we couldn't party? New years 2021 exclusive.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Collectible",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/0b/Firework_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Firework_Mine",
     "properties": {
@@ -9575,19 +9551,6 @@
     }
   },
   {
-    "id": 1046,
-    "name": "Flashlight",
-    "description": "Click to turn on light. Useful at nighttime.",
-    "category": "Utility",
-    "tier": "Unknown",
-    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/93/FIcon.png",
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Flashlight",
-    "properties": {
-      "Effects": "Emits light when clicked. Turns off when clicked again.",
-      "Source": "Spawning in"
-    }
-  },
-  {
     "id": 783,
     "name": "Flintlock Table",
     "description": "A scavenger likes to keep their guns in the same place they keep their winnings: a table.",
@@ -9679,7 +9642,7 @@
     "name": "Fool's Gold Mine",
     "description": "April Fools! This snazzy mine was awarded for beating Miner's Haven 2.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Exotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/ed/Fool%27s_Gold_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Fool's_Gold_Mine",
     "properties": {
@@ -9705,7 +9668,7 @@
     "name": "Forbidden Gift of Nightmares",
     "description": "A gift that dreamers often see Pandora holding in their dreams. At the sight of this gift things start feeling more nigtmarish.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/cd/Forbidden_Gift_of_Nightmares.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Forbidden_Gift_of_Nightmares",
     "properties": {
@@ -9747,7 +9710,7 @@
     "name": "Forcefield Generator",
     "description": "Communicates with Spawn Beacons to allow you to spawn in with a temporary forcefield. Requires at least 1 Spawn Beacon placed.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Premium",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c3/Forcefield_Generator_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Forcefield_Generator",
     "properties": {
@@ -9819,7 +9782,7 @@
   {
     "id": 797,
     "name": "Foxbar Machine",
-    "description": "",
+    "description": "The ultimate combination of energy bars! Containing so much energy that it surges with electricity, giving you the jolt of energy to start the day!",
     "category": "Decoration",
     "tier": "Mythic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a5/Foxbar_Machine.png",
@@ -9839,7 +9802,7 @@
   {
     "id": 796,
     "name": "Foxerbar Machine",
-    "description": "",
+    "description": "A more wholesome energy bar, usually putting people in a good mood if they haven't gotten the proper sleep.",
     "category": "Decoration",
     "tier": "Divine",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/66/Foxerbar_Machine.png",
@@ -9913,7 +9876,7 @@
     "name": "Frank'n'Cupcake",
     "description": "The baker of this cupcake is named Frankenstein, the cupcake itself is, infact, not named Frankenstein. Adds candy value to ore.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/d8/Frank%27n%27Cupcake.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Frank'n'Cupcake",
     "properties": {
@@ -9940,7 +9903,7 @@
     "name": "Frankenstein Guardian",
     "description": "This isn't the real Frankenstein monster, but happens to be a regular zombie dressing up for Halloween.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/4e/Frankenstein_Guardian.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Frankenstein_Guardian",
     "properties": {
@@ -10474,7 +10437,7 @@
     "name": "Frozen Peaks",
     "description": "The coldest furnace in the world. Favors flaming ore.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/97/Frozen_Peaks.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Frozen_Peaks",
     "properties": {
@@ -10526,7 +10489,7 @@
     "name": "Full Shield Conveyor",
     "description": "Intended for small ores only, this fully shielded conveyor will prevent your ores from going flying!",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e2/Full_Shield_Conveyor.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Full_Shield_Conveyor",
     "properties": {
@@ -10550,7 +10513,7 @@
     "name": "Funky Town",
     "description": "The mushrooms, they are alive. This furnace thrives purely off of corruption, it hates purity.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Decimal Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/f1/Funky_Town.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Funky_Town",
     "properties": {
@@ -10614,7 +10577,7 @@
     "name": "Gaia's Grasp",
     "description": "A rather strange phenomena where stone spires form into the shape of a hand. Being a symbol of Gaia's eternal blessing to the surrounding area.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/65/Gaia%27s_Grasp.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Gaia's_Grasp",
     "properties": {
@@ -10741,7 +10704,7 @@
     "name": "Gator's Cove",
     "description": "Captain Gator is a ruthless sailor who has conquered the 7 seas. Unfortunately his empire is made up of water, so we don't talk much about it.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/07/Gator%27s_Cove.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Gator's_Cove",
     "properties": {
@@ -10850,7 +10813,7 @@
     "name": "Ghosdeeri's Plague",
     "description": "The blade Ghosdeeri wields when inflicting the land with disastrous plagues and diseases.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Collectible Halloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/68/Ghosdeeri%27s_Plague.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ghosdeeri's_Plague",
     "properties": {
@@ -10940,7 +10903,7 @@
     "name": "Ghost Vacuum",
     "description": "A vacuum strong enough to capture ghosts! But obviously you have no need for ghosts, so just send your ores through it!",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/f9/Ghost_Vacuum.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ghost_Vacuum",
     "properties": {
@@ -11064,7 +11027,7 @@
     "name": "Giant Pretzel",
     "description": "Such a giant pretzel! Never seen anything like that before, huh?",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/47/Giant_Pretzel.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Giant_Pretzel",
     "properties": {
@@ -11165,11 +11128,11 @@
     "name": "Gift Blaster",
     "description": "This blaster will make your ore party until they drop! Can only be used 3 times.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/ff/Gift_Blaster.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Gift_Blaster",
     "properties": {
-      "Tier": "Collectible",
+      "Tier": "CollectibleBirthday",
       "Item Size": "5x6x3",
       "Date Added": "12 June, 2020",
       "Created By": "CRAZYYHAMBURGER · MagicalV",
@@ -11189,7 +11152,7 @@
     "name": "Gift of Arachnid Silk",
     "description": "Wrapped in 100% spider silk.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a7/Gift_of_Arachnid_Silk.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Gift_of_Arachnid_Silk",
     "properties": {
@@ -11270,7 +11233,7 @@
     "name": "Gift of Eternal Hunger",
     "description": "This gift is laughing at you, you may not hear it, but just know that it is.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/66/Gift_of_Eternal_Hunger.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Gift_of_Eternal_Hunger",
     "properties": {
@@ -11405,7 +11368,7 @@
     "name": "Gift of the Azurian Dragon",
     "description": "A gift from the Azure Mines. At first glance, it looks like a gargoyle. But you can hear something inside when you shake it.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a5/Gift_of_the_Azurian_Dragon.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Gift_of_the_Azurian_Dragon",
     "properties": {
@@ -11940,7 +11903,7 @@
     "name": "Golden Clover Refiner",
     "description": "A legendary upgrader on par with the Golden Clover Blaster, except rather than burning golden clovers, this one infuses ore with them!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "ExoticClover",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/ce/Golden_Clover_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Golden_Clover_Refiner",
     "properties": {
@@ -12038,7 +12001,10 @@
   {
     "id": 186,
     "name": "Goliath Skull",
-    "description": "",
+    "description": {
+      "Sender": "Titans couldn't ever perish. These skulls are said to resemble the skulls of the two living Titans: Solumn and Kromos.",
+      "Receiver": "After tormenting ore, this skull will release the ore it has consumed. The ore released would be stained with crimson fluid.",
+    },
     "category": "Upgrader",
     "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a1/Goliath_Skull_%28Sender%29.png",
@@ -12067,7 +12033,7 @@
     "name": "Grand Birthday Cake",
     "description": "The grandaddy of birthday cakes. Processses every other ore at a massive value. MH 2nd Birthday Exotic.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "ExoticBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/99/Grand_Birthday_Cake.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Grand_Birthday_Cake",
     "properties": {
@@ -12301,7 +12267,7 @@
     "name": "Gravity Normalizer",
     "description": "A dynamic conveyor that can be placed at variable heights, even on top of other items!",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Hydraulic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/97/Gravity_Normalizer.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Gravity_Normalizer",
     "properties": {
@@ -12404,7 +12370,7 @@
     "name": "Green Tea Kettle",
     "description": "A device which boils water containing ancient leaves. Documents from the past don't recall the liquid being green, but where else would the name come from?",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/87/Green_Tea_Kettle.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Green_Tea_Kettle",
     "properties": {
@@ -12455,7 +12421,7 @@
   {
     "id": 1043,
     "name": "Green Teleporter",
-    "description": "",
+    "description": "A glowing teleporter that only sends ores to matching green receivers. (Sender) · A glowing teleport pad that only accepts ores from green teleporters. (Receiver)",
     "category": "Utility",
     "tier": "Premium",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/12/Green_Teleporter_%28Sender%29_HD.png",
@@ -12532,7 +12498,7 @@
     "name": "Guardian of the Portal",
     "description": "The guardian is practically on defcon 1. To even cross its line of sight is asking for a fight.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/79/Guardian_of_the_Portal.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Guardian_of_the_Portal",
     "properties": {
@@ -12554,7 +12520,7 @@
     "name": "Gummy Refiner",
     "description": "A refiner which turns out into a gummy cube. While it adds candy to the ore value, fire burns this ore away quicker.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/f0/Gummy_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Gummy_Refiner",
     "properties": {
@@ -12636,7 +12602,7 @@
     "name": "Hanging Wreath",
     "description": "A large wreath to hang in your setups, to throw your ore through. Only obtainable through the Advent Calendar.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "ExoticHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/97/Hanging_Wreath.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Hanging_Wreath",
     "properties": {
@@ -12755,7 +12721,7 @@
     "name": "Haunted Gift of Mansions",
     "description": "It's free real estate.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/8f/Haunted_Gift_of_Mansions.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Haunted_Gift_of_Mansions",
     "properties": {
@@ -12774,7 +12740,7 @@
     "name": "Haunted Gift of the Dutchman",
     "description": "A strange gift that looks like a ghost, but the present is made out of drywall with a face painted on it.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/03/Haunted_Gift_of_the_Dutchman.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Haunted_Gift_of_the_Dutchman",
     "properties": {
@@ -12855,7 +12821,7 @@
     "name": "Haven Tree",
     "description": "A potted decorative tree in the new Miner's Haven map style.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Uncommon",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/b4/Haven_Tree.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Haven_Tree",
     "properties": {
@@ -12945,31 +12911,11 @@
     }
   },
   {
-    "id": 1064,
-    "name": "Health Infuser",
-    "description": "A machine that infuses anyone who touches it with +25 MaxHealth. Players can only be infused once per life.",
-    "category": "Utility",
-    "tier": "Unknown",
-    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/73/Thrust_Infuser.png",
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Health_Infuser",
-    "properties": {
-      "Item Size": "4x4x3",
-      "Date Added": "Initial Release",
-      "Created By": "Berezaa",
-      "Date Removed": "March 31, 2016",
-      "Effects": "Adds 25 health upon touch.",
-      "Reborn Proof": "No",
-      "Sacrifice Proof": "No",
-      "Cost": "Can't Buy",
-      "Sell Value": "Can't Sell"
-    }
-  },
-  {
     "id": 839,
     "name": "Heart Balloons",
     "description": "Comical but, still gets the point across. Valentines 2021 exclusive.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleValentines",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/95/Heart_Balloons.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Heart_Balloons",
     "properties": {
@@ -13009,7 +12955,7 @@
     "name": "Heart of Dusk",
     "description": "A rather sinister aura emits from this furnace. Such an aura empowers your ore, processing them at x150 their value.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Divine",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/ff/Heart_of_Dusk.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Heart_of_Dusk",
     "properties": {
@@ -13287,7 +13233,7 @@
     "name": "Historic Television",
     "description": "An ancient device, unfortunately there are no TV stations, but at least it shows some funny memes.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Divine",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/47/Historic_Television.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Historic_Television",
     "properties": {
@@ -13363,7 +13309,7 @@
     "name": "Holiday Street Refiner",
     "description": "Let your ore go down the street and watch the holiday lights! Only obtainable from the Advent Calendar",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/27/Holiday_Street_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Holiday_Street_Refiner",
     "properties": {
@@ -13469,7 +13415,7 @@
     "name": "Horizon Centrifuge",
     "description": "A small but very powerful upgrader. With a small blackhole, it will warp the space around the ore. Only upgrades ore worth at least $1sx, and caps off at $1Sp",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Mythic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/3a/Horizon_Centrifuge.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Horizon_Centrifuge",
     "properties": {
@@ -13514,26 +13460,6 @@
       "Damage": "?",
       "Weapon Icon": "Blade of Harvest.png",
       "Item Events": "Halloween 2020 · Halloween 2021 · Halloween 2022"
-    }
-  },
-  {
-    "id": 856,
-    "name": "Huge Firework",
-    "description": "New Years 2021 exclusive.",
-    "category": "Decoration",
-    "tier": "Unknown",
-    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/96/Huge_Firework.png",
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Huge_Firework",
-    "properties": {
-      "Date Added": "31 December, 2020",
-      "Reborn Proof": "Yes",
-      "Sacrifice Proof": "Yes",
-      "Tier": "Collectible",
-      "Item Size": "5x4x5",
-      "Effects": "Gives a Firework Bundle.",
-      "Item Events": "New Years 2021 Event",
-      "Created By": "drabloxerb",
-      "Item Vfx": "Occasional firework particles"
     }
   },
   {
@@ -13636,7 +13562,7 @@
     "name": "Hydraulic Doge",
     "description": "A fix-all solution for putting doges on your base without having them get in the way of ores.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Refined",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/84/Hydraulic_Doge.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Hydraulic_Doge",
     "properties": {
@@ -13730,7 +13656,7 @@
     "name": "Hydraulic Ore Cannon",
     "description": "Technology has reached new heights, providing a cannon suspended in the air.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Hydraulic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/04/Hydraulic_Ore_Cannon.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Hydraulic_Ore_Cannon",
     "properties": {
@@ -13831,14 +13757,14 @@
   {
     "id": 1074,
     "name": "Hydraulic Teleporter",
-    "description": "",
+    "description": "A Hydraulic teleporter that operates at any height! (Sender) · Receives ores from Hydraulic teleporters at any height! (Receiver)",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Hydraulic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/fe/Hydraulic_Teleporter.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Hydraulic_Teleporter",
     "properties": {
       "Tier": "Hydraulic",
-      "Item Size": "* 2x2 units (Sender)\n* 5x5 units (Receiver)",
+      "Item Size": " · 2x2x2 units (Sender · 5x5x2 units (Receiver)",
       "Date Added": "18 November, 2019",
       "Created By": "eroomad",
       "Effects": "Teleports ores to any height.",
@@ -13849,14 +13775,18 @@
       "Conveyor Elevation": "Hydraulic",
       "Reborn Proof": "No",
       "Sacrifice Proof": "No",
-      "Cost": "* $9.5T (Receiver) · * $4.5T (Sender)",
-      "Sell Value": "* $3.32T (Receiver) · * $1.57T (Sender)"
+      "Cost": "$9.5T (Receiver) · $4.5T (Sender)",
+      "Sell Value": "$3.32T (Receiver) · $1.57T (Sender)"
     }
   },
   {
     "id": 851,
     "name": "Hydraulic Walkways",
-    "description": "",
+    "description": {
+      "Corner": "A corner walkway for making turns.",
+      "Stairway": "Ladders were overrated anyways...",
+      "Straight": "A straight walkway for walking safely across.",
+    },
     "category": "Decoration",
     "tier": "Hydraulic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a6/Hydraulic_Corner_Walkway.png",
@@ -13867,7 +13797,7 @@
       "Source": "Shop",
       "Reborn Proof": "No",
       "Sacrifice Proof": "No",
-      "Cost": "Hydraulic Corner Walkway: $5.5M · ----- · Hydraulic Stairway: $6.3M · ----- · Hydraulic Straight Walkway: $8M",
+      "Cost": "$5.5M (Corner) · $6.3M (Stairway) · $8M (Straight)",
       "Life Required": "300+"
     }
   },
@@ -14056,7 +13986,7 @@
     "name": "Icy Flooring",
     "description": "Create patches of slippery ice!",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/87/Icy_Flooring.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Icy_Flooring",
     "properties": {
@@ -14188,7 +14118,7 @@
     "name": "Illusions of Void",
     "description": "The oblivion lurker seemed to have failed protecting the egg, its recklessness has given you an upgrader which spews raw void into your world.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/b5/Illusions_of_Void.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Illusions_of_Void",
     "properties": {
@@ -14217,7 +14147,7 @@
     "name": "Impending Gift of Phantoms",
     "description": "It seems that this present made it into the wrong Event. Perhaps there is a more suitable time of the year for this present to be opened.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/38/Impending_Gift_of_Phantoms.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Impending_Gift_of_Phantoms",
     "properties": {
@@ -14236,7 +14166,7 @@
     "name": "Incendium Mine",
     "description": "Can fire burn? The flaming Incendium Mine fires flaming ore that must be put out to prevent it from being destroyed. Vanishes when you rebirth.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Slipstream",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/66/Incendium_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Incendium_Mine",
     "properties": {
@@ -14261,7 +14191,7 @@
   {
     "id": 620,
     "name": "Incendium Mine/Renegade",
-    "description": " · skipthispage=no · include={Quote}:1 · includetrim=}}",
+    "description": "Can fire burn? The flaming Incendium Mine fires flaming ore that must be put out to prevent it from being destroyed. Vanishes when you rebirth.",
     "category": "Dropper",
     "tier": "Renegade",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/66/Incendium_Mine.png",
@@ -14391,7 +14321,7 @@
     "name": "Industrial Firegem Quarry",
     "description": "Firecrystal, under specific conditions, seems to form into a much more valuable and durable version of itself, so much that normal pickaxes aren't capable of harvesting it.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a8/Industrial_Firegem_Quarry.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Industrial_Firegem_Quarry",
     "properties": {
@@ -14591,7 +14521,7 @@
     "name": "Infernal Guardian",
     "description": "A zombie who happened to have spontaneously combusted. This has made this zombie faster, but also weaker.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/50/Infernal_Guardian.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Infernal_Guardian",
     "properties": {
@@ -14680,7 +14610,7 @@
     "name": "Interstellar Conqueror",
     "description": "Virtually unlimited power. Harnesses the energy from nearby pulsars to fuel its multiplier.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Decimal Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/9c/Interstellar_Conqueror.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Interstellar_Conqueror",
     "properties": {
@@ -14721,7 +14651,7 @@
     "name": "Invasive Cyberlord",
     "description": "It seems remnants of the previous dystopian empire still lingers in the cyber world today.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/9e/Invasive_Cyberlord.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Invasive_Cyberlord",
     "properties": {
@@ -14739,20 +14669,6 @@
       "Sell Value": "17 Shards",
       "Upgrade Counter": "3 · (Each beam gives 1)",
       "Categories": "Furnace"
-    }
-  },
-  {
-    "id": 1080,
-    "name": "Invincibility Orb",
-    "description": "There's currently no description for the item.",
-    "category": "Utility",
-    "tier": "Unknown",
-    "imageUrl": null,
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Invincibility_Orb",
-    "properties": {
-      "Source": "Sword Master gamepass",
-      "Special Ability": "Make the user invicible",
-      "Date Added": "August 7th, 2016"
     }
   },
   {
@@ -15045,24 +14961,11 @@
     }
   },
   {
-    "id": 1067,
-    "name": "Jetpack",
-    "description": "Lets you fly or something",
-    "category": "Utility",
-    "tier": "Unknown",
-    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/dc/Mrjetpacky.png",
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Jetpack",
-    "properties": {
-      "Effects": "Transportation; Propels players in the direction their camera is facing while clicking",
-      "Source": "Laying on a palm tree near the docks · Executive Crate"
-    }
-  },
-  {
     "id": 1069,
     "name": "Jump Pad",
     "description": "New plasma technology allows for the technology of jump pads that send you flying into the air.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Premium",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c7/Jump_Pad_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Jump_Pad",
     "properties": {
@@ -15103,7 +15006,7 @@
     "name": "King Birthday Cake",
     "description": "The king of all cakes, this cake will promote your ores into royal Cake Knights!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Decimal Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/78/King_Birthday_Cake.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/King_Birthday_Cake",
     "properties": {
@@ -15162,7 +15065,7 @@
     "name": "King Gold Mine",
     "description": "All that glitters is gold. Only shooting stars break the mold. Ores cannot be reduced in size.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Decimal Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/cd/King_Gold_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/King_Gold_Mine",
     "properties": {
@@ -15191,7 +15094,7 @@
     "name": "L.I.M.E",
     "description": "L.I.M.E. stands for \"Lemon Imposter\". The \"M\" and \"E\" means nothing.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e1/L.I.M.E.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/L.I.M.E",
     "properties": {
@@ -15285,7 +15188,7 @@
     "name": "Leafy Particle",
     "description": "You are one with mother nature! If you only have 1 particle giver placed, it will be your default particle.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Refined",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/f1/Leafy_Particle_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Leafy_Particle",
     "properties": {
@@ -15554,7 +15457,7 @@
     "name": "Lollipop-inator",
     "description": "A refiner which fuses the ore with a core made entirely out of gum, while converting the shell to solid candy. Adds candy value to ore.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/05/Lollipop-inator.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Lollipop-inator",
     "properties": {
@@ -15681,7 +15584,7 @@
     "name": "Lord of the Haven Shrine",
     "description": "Who dares challenge a True Overlord!!!?",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/d7/Lord_of_the_Haven_Shrine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Lord_of_the_Haven_Shrine",
     "properties": {
@@ -16061,7 +15964,7 @@
     "name": "Magical Gift of Crucibles",
     "description": "Inside you can hear a cauldron brewing.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Exotic Halloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/b7/Magical_Gift_of_Crucibles.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Magical_Gift_of_Crucibles",
     "properties": {
@@ -16074,19 +15977,6 @@
       "Sell Value": "Can't Sell",
       "Unwraps Into": "Witch's Cauldron",
       "Item Events": "Halloween 2020 · Halloween 2021 · Halloween 2022 · Halloween 2023 · Halloween 2024"
-    }
-  },
-  {
-    "id": 1087,
-    "name": "Magical Umbrella",
-    "description": "",
-    "category": "Utility",
-    "tier": "Unknown",
-    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/05/Magical_Umbrella-0.png",
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Magical_Umbrella",
-    "properties": {
-      "Effects": "Allows players to glide, flies in the air temporarily",
-      "Source": "ROBLOX Catalog"
     }
   },
   {
@@ -16161,7 +16051,7 @@
     "name": "Malicious Incubator",
     "description": "The eggs on this upgrader are terrifying, perhaps these are the very eggs which spawns JAK'UHFDOR?",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e7/Malicious_Incubator.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Malicious_Incubator",
     "properties": {
@@ -16264,7 +16154,7 @@
     "name": "Massive Gold Mine",
     "description": "They say money doesn't buy happiness. Ask them if they've ever purchased a massive gold mine?",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Super Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/f8/Massive_Gold_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Massive_Gold_Mine",
     "properties": {
@@ -16289,7 +16179,7 @@
     "name": "Massive Iron Mine",
     "description": "A towering mine that drops massive ore which are worth tons of money.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e0/Massive_Iron_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Massive_Iron_Mine",
     "properties": {
@@ -16340,7 +16230,7 @@
     "name": "Meatball Sandwich",
     "description": "A sandwich with a foreboding aura, it tempts you to take a bite, but none have succeeded.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Decimal Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/16/Meatball_Sandwich.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Meatball_Sandwich",
     "properties": {
@@ -16481,7 +16371,7 @@
     "name": "Methane Sky Fleet",
     "description": "An armada of floating balloons fueled with burning gas to fly. In ancient times, these used to fill the sky in some areas of the world.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/9a/Methane_Sky_Fleet.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Methane_Sky_Fleet",
     "properties": {
@@ -16629,7 +16519,14 @@
   {
     "id": 880,
     "name": "Minecart Track",
-    "description": "",
+    "description": {
+      "Straight": "The basic component to Carat Ride to Fargield's house",
+      "Turned": "The basic turning component needed to complete Cart Ride into Borker's Store",
+      "Ramp": "A track that'll inevitably reach new heights, just not quickly",
+      "Cross": "A nifty component used to allow 2 different tracks to intersect. There's no stoplight tracks so please be safe",
+      "Start": "A minecart just waiting to go on an adventure!",
+      "End": "The grand ending to Cart Ride Through Two Player Gun Factory Tycoon (While it's on fire!)",
+    },
     "category": "Decoration",
     "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/51/Track.png",
@@ -16649,7 +16546,7 @@
     "name": "Mineral Wheel",
     "description": "In the old days, people made energy using giant water wheels! Of course energy is infinite today, so new usages for those giant wheels was needed.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e0/Mineral_Wheel.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Mineral_Wheel",
     "properties": {
@@ -16750,7 +16647,7 @@
     "name": "Moai God",
     "description": "Ore which pass through the Moai God's mouth are either given fortune, or left with nothing. Or perhaps the ore may come out as divine as the god itself.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/9c/Moai_God.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Moai_God",
     "properties": {
@@ -16835,7 +16732,7 @@
     "name": "MONSTER TRUCKER!",
     "description": "A PRETTY RESPECTABLE TOY UPGRADER. IT TURNS YOUR SILICON ORE INTO TOY MONSTER TRUCKS!!!11! THIS UPGRADER INCREASES PRESENT VALUE BY 20!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/9b/MONSTER_TRUCKER%21.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/MONSTER_TRUCKER!",
     "properties": {
@@ -16996,7 +16893,7 @@
     "name": "Mysterious Teleporter",
     "description": "The Cursed Pearl led you to this mysterious teleporter. Where does it lead? 2017 Artifact item.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e6/Mysterious_Teleporter.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Mysterious_Teleporter",
     "properties": {
@@ -17034,7 +16931,7 @@
     "name": "Mystical Thunder",
     "description": "A metropolis of electrical glory. A symbol of the peak of civilization.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Advanced Evolution",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/82/Mystical_Thunder.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Mystical_Thunder",
     "properties": {
@@ -17085,7 +16982,7 @@
     "name": "Nature's Enchantment",
     "description": "This ghastly furnace grants ores value based on the tycoon owners [sic] life but vanishes when you rebirth.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Slipstream",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/31/Nature%27s_Enchantment.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Nature's_Enchantment",
     "properties": {
@@ -17173,7 +17070,10 @@
   {
     "id": 1088,
     "name": "Nebula System",
-    "description": "",
+    "description": {
+      "Ore Nebula": "A device that harnesses the power of a nebula to move massive amounts of ore. Requires a Nebula Receiver. Replaces Ore Pulsars. 2016 Black Friday Artifact Reward.",
+      "Nebula Receiver": "Receives ore from the Ore Nebula. 2016 Black Friday Artifact reward.",
+    },
     "category": "Utility",
     "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/fe/Nebula_System.png",
@@ -17284,7 +17184,7 @@
     "name": "Neutropian Refiner",
     "description": "A true balance between utopia and dystopia. If only the previous empire knew this, it would never have collapsed.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Slipstream",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/72/Neutropian_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Neutropian_Refiner",
     "properties": {
@@ -17307,7 +17207,7 @@
   {
     "id": 278,
     "name": "Neutropian Refiner/Renegade",
-    "description": " · skipthispage=no · include={Quote}:1 · includetrim=}}",
+    "description": "A true balance between utopia and dystopia. If only the previous empire knew this, it would never have collapsed.",
     "category": "Upgrader",
     "tier": "Renegade",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/72/Neutropian_Refiner.png",
@@ -17403,7 +17303,7 @@
     "name": "Newtonium Excavator",
     "description": "An unthinkably powerful manual mine created by fringe science and lots of love. Receives special upgrades from radioactive based upgraders.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c3/Newtonium_Excavator.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Newtonium_Excavator",
     "properties": {
@@ -17661,7 +17561,7 @@
     "name": "Nuclear Castle",
     "description": "The early humans, after discovering nuclear power, only craved more power. it didn't solve their power crisis, for it lead to several catastrophes regarding the instability of these structures.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c7/Nuclear_Castle.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Nuclear_Castle",
     "properties": {
@@ -17709,7 +17609,7 @@
     "name": "Nuclear Stronghold",
     "description": "This structure depicts old ways civilizations generated their power. Unfortunately some of these structures grew unstable. Today, these structures are relics of history.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/93/Nuclear_Stronghold.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Nuclear_Stronghold",
     "properties": {
@@ -17778,7 +17678,7 @@
     "name": "Oblivion Weaver",
     "description": "Lurking in the Void is the Oblivion Weaver: these beasts consume antimatter and use it to create super-charged explosions. Maybe those explosions can be of use to you.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Slipstream",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/97/Oblivion_Weaver.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Oblivion_Weaver",
     "properties": {
@@ -17803,7 +17703,7 @@
   {
     "id": 640,
     "name": "Oblivion Weaver/Renegade",
-    "description": " · skipthispage=no · include={Quote}:1 · includetrim=}}",
+    "description": "Lurking in the Void is the Oblivion Weaver: these beasts consume antimatter and use it to create super-charged explosions. Maybe those explosions can be of use to you.",
     "category": "Dropper",
     "tier": "Renegade",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/97/Oblivion_Weaver.png",
@@ -17975,7 +17875,7 @@
     "name": "Onyx Mine",
     "description": "Onyx is such a rare material that it is difficult to consistently mine the same amount. This mine is the closest it gets to perfection.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Divine",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/87/Onyx_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Onyx_Mine",
     "properties": {
@@ -18020,7 +17920,7 @@
     "name": "Ooftopian Refiner",
     "description": "Dubious Noobius, a reckless, yet absurdly intelligent creature, have harbored technology capable of upgrading any ore based on how many digits is in the value. Truly an Ooftopia for them.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Decimal Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/d6/Ooftopian_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ooftopian_Refiner",
     "properties": {
@@ -18127,7 +18027,10 @@
   {
     "id": 1086,
     "name": "Orange Teleporter",
-    "description": "",
+    "description": {
+      "Sender": "A special teleporter that teleporters ores to orange teleport receivers. Requires receivers to function",
+      "Receiver": "A special teleport receiver that accepts ores from yellow teleporters only.",
+    },
     "category": "Utility",
     "tier": "Premium",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/b7/Orange_Teleporter_%28Sender%29_HD.png",
@@ -18176,7 +18079,7 @@
     "name": "Orbital Antimatter Uplink",
     "description": "Coordinates with satellites that collect natural antimatter in the earth's orbit and receives incoming antimatter packages from space.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Unique",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/d5/Orbital_Antimatter_Uplink_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Orbital_Antimatter_Uplink",
     "properties": {
@@ -18201,7 +18104,7 @@
     "name": "Orbital Cataclysm",
     "description": "Rogue colonies from other planets may attempt to invade us if we try growing too powerful.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Slipstream",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/0a/Orbital_Cataclysm.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Orbital_Cataclysm",
     "properties": {
@@ -18226,7 +18129,7 @@
   {
     "id": 298,
     "name": "Orbital Cataclysm/Renegade",
-    "description": " · skipthispage=no · include={Quote}:1 · includetrim=}}",
+    "description": "Rogue colonies from other planets may attempt to invade us if we try growing too powerful.",
     "category": "Upgrader",
     "tier": "Renegade",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/0a/Orbital_Cataclysm.png",
@@ -18279,7 +18182,7 @@
     "name": "Ore Basket",
     "description": "A basket once used to store the eggs in egg hunts, now used to store ore.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleEaster",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/66/Ore_Basket.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Basket",
     "properties": {
@@ -18360,7 +18263,7 @@
     "name": "Ore Caramelizer",
     "description": "A caramel infused candy. It can be quite the mess on your conveyors, but the candy it adds is worth the mess.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e7/Ore_Caramelizer.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Caramelizer",
     "properties": {
@@ -18494,7 +18397,7 @@
     "name": "Ore Elevator",
     "description": "A fancy and more consistent way of getting ore to hard-to-reach places.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Unique",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/4a/Ore_Elevator.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Elevator",
     "properties": {
@@ -18558,7 +18461,7 @@
     "name": "Ore Gate",
     "description": "A simple gate that either allows ores to pass through or holds them in place.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a7/Ore_Gate.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Gate",
     "properties": {
@@ -18609,7 +18512,7 @@
     "name": "Ore Hoister",
     "description": "Hoists ore onto a raised conveyor where it is then upgraded. Can only be used once.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/80/Ore_Hoister.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Hoister",
     "properties": {
@@ -18712,7 +18615,7 @@
     "name": "Ore Indoctrinator",
     "description": "This item does not actually exist. It's just a joke.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/6e/Ore_Indoctrinator.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Indoctrinator",
     "properties": {
@@ -18744,7 +18647,7 @@
     "name": "Ore Magmafier",
     "description": "A more enhanced machine compared to the Ore Magnifier. However this upgrader only upgrades ore worth more than 1Qn, but applies 3 different upgrades.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Legendary",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c0/Ore_Magmafier.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Magmafier",
     "properties": {
@@ -18800,7 +18703,7 @@
     "name": "Ore Memer",
     "description": "The shouts... they were true? The Ore Memer actually exists!?",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Decimal Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/6d/Ore_Memer.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Memer",
     "properties": {
@@ -18981,7 +18884,7 @@
     "name": "Ore Recliner",
     "description": "A fancy upgrader which upgrades and lowers ore from high places at the same time. Can be used several times",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Super Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/ce/Ore_Recliner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Recliner",
     "properties": {
@@ -19054,7 +18957,7 @@
     "name": "Ore Roaster",
     "description": "A fiery hot upgrader which can only upgrade ores that are on fire. Can be used several times with no cash limit.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e3/Ore_Roaster.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Roaster",
     "properties": {
@@ -19083,7 +18986,7 @@
     "name": "Ore Sawmill",
     "description": "Hi, Swil Phift here showing you our product, the Ore Sawmill! To show you the power of this upgrader, I sawed your ore in half!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c8/Ore_Sawmill.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Sawmill",
     "properties": {
@@ -19170,7 +19073,7 @@
     "name": "Ore Steamer",
     "description": "An incredibly powerful upgrader that requires ore to be directly dropped into it.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Uncommon",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/84/Ore_Steamer.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Steamer",
     "properties": {
@@ -19199,7 +19102,7 @@
     "name": "Ore Striker",
     "description": "Inside AJ Striker's crate was this bulky machine. Despite his technology and capability of traveling between dimensions, even his technology is unstable.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "ExoticEaster",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/1b/Ore_Striker.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Striker",
     "properties": {
@@ -19224,7 +19127,7 @@
     "name": "Ore Supernova",
     "description": "The Ore Supernova grants a massive upgrade to all dropped ores when activated. Ores can only be upgraded by it once.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Slipstream",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/77/Ore_Supernova.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Supernova",
     "properties": {
@@ -19251,7 +19154,7 @@
     "name": "Ore Thermocrusher",
     "description": "Uses super advanced ore thermo-crushing technology to upgrade ore from 30% up to $100Sp",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Divine",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/1b/Ore_Thermocrusher_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Thermocrusher",
     "properties": {
@@ -19360,7 +19263,7 @@
     "name": "Ore Transponder",
     "description": "A sturdy upgrader with a fast conveyor that doubles the value of ore up to a decillion dollars.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Almighty",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/ee/Ore_Transponder.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Transponder",
     "properties": {
@@ -19385,7 +19288,7 @@
     "name": "Ore Winder",
     "description": "An over-complicated upgrader that can triple the value of ore up to three times.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Epic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/39/Ore_Winder.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Winder",
     "properties": {
@@ -19536,7 +19439,7 @@
     "name": "Otherworldly Chef Doge",
     "description": "The evil brother to Ze Chef Dogé. He believes Ze Chef's food is mediocre, and would prefer you to enjoy his delightful cuisine.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/65/Otherworldly_Chef_Doge.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Otherworldly_Chef_Doge",
     "properties": {
@@ -19636,7 +19539,7 @@
     "name": "Oversized Full Shield Conveyor",
     "description": "This fully shielded conveyor will prevent ores of all different sizes from going flying!",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/23/Oversized_Full_Shield_Conveyor.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Oversized_Full_Shield_Conveyor",
     "properties": {
@@ -19659,7 +19562,7 @@
     "name": "Painite Mine",
     "description": "People have been killed for painite. It is simply one of the most valuable materials on the planet.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Unique",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/d7/Painite_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Painite_Mine",
     "properties": {
@@ -19683,7 +19586,7 @@
     "name": "Palladium Drill",
     "description": "This drill is capable of harvesting large amounts of Palladium ore. However during the drilling process, it creates a side product from its fast speed.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Advanced Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/ec/Palladium_Drill.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Palladium_Drill",
     "properties": {
@@ -19710,7 +19613,7 @@
   {
     "id": 1253,
     "name": "Pandora's Box",
-    "description": "",
+    "description": "This box used to store the treasures of Pandora. Unfortunately thieves got ahold of it, which prompted Pandora to either bring fortune, or complete destruction to those who ever opened this box.",
     "category": "Furnace",
     "tier": "Superstitious",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/03/Pandora%27s_Box.png",
@@ -19821,7 +19724,7 @@
     "name": "Permafrost Refiner",
     "description": "A powerful frozen refiner that literally turns ores into ice. 2017 Winter Exotic.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "ExoticHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a7/Permafrost_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Permafrost_Refiner",
     "properties": {
@@ -19872,7 +19775,7 @@
     "name": "Phase Bombarder",
     "description": "Such a marvel of phase technology, such an upgrader capable of turning ore into pure phase!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/95/Phase_Bombarder.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Phase_Bombarder",
     "properties": {
@@ -19901,7 +19804,7 @@
     "name": "Phase Processor",
     "description": "This furnace is paired with a satellite that traveled for eons in space, searching only for ore blessed by Phase",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/06/Phase_Processor.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Phase_Processor",
     "properties": {
@@ -19923,7 +19826,7 @@
     "name": "Phase Refiner",
     "description": "A spectacular upgrader that upgrades ore with light as bright as the stars! Powers up the Phase Processor.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/60/Phase_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Phase_Refiner",
     "properties": {
@@ -20019,7 +19922,7 @@
     "name": "Pile of Wafers",
     "description": "A pile of the most hated machine component known to man: The Wafer.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Mythic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a2/Pile_of_Wafers.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pile_of_Wafers",
     "properties": {
@@ -20183,7 +20086,10 @@
   {
     "id": 1083,
     "name": "Pink Teleporter",
-    "description": "",
+    "description": {
+      "Sender": "A teleporter that operates using diffierent [sic] technology. It can only teleport ore to a pink receiver",
+      "Receiver": "A special teleporter pad that only receives ore from pink teleporters."
+    },
     "category": "Utility",
     "tier": "Super Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c4/Pink_Teleporter_%28Sender%29_HD.png",
@@ -20301,7 +20207,7 @@
     "name": "Pizza Bombarder",
     "description": "Such a strong searing chimney. It'll cook your ore to perfect pizza temperature, bombarding your ore with the power of ten thousand pepperonis!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/70/Pizza_Bombarder.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pizza_Bombarder",
     "properties": {
@@ -20362,7 +20268,7 @@
     "name": "PIZZA DOGE",
     "description": "NOM NOM* Pizza Doge, you're such a good boy! *MUNCH*",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectiblePizza",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/38/PIZZA_DOGE.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/PIZZA_DOGE",
     "properties": {
@@ -20384,7 +20290,7 @@
     "name": "Pizza Flood Light",
     "description": "I'll be real with you, I've run out of ways to rationalize the existence of these monstrocities [sic]. It's a freaking pizza floodlight. Don't ask questions that don't need to be asked.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectiblePizza",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/d1/Pizza_Flood_Light.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pizza_Flood_Light",
     "properties": {
@@ -20403,9 +20309,13 @@
   {
     "id": 896,
     "name": "Pizza Flooring",
-    "description": "",
+    "description": {
+      "Pizza Floring": "Mmmmmm, crustless pizza flooring.",
+      "Pizza Crust Flooring": "Mmmmmm, crusted cubic pizza",
+      "Pizza Crust Corner Flooring": "Mmmmmm nostalgic, almost accurate pizza slice."
+    },
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectiblePizza",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/19/Pizza_Flooring.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pizza_Flooring",
     "properties": {
@@ -20425,7 +20335,7 @@
     "name": "Pizza Furnace",
     "description": "The ultimate weapon, a machine that values ore at the price of pizza! Draws power from pizza-themed items in your base.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Enchanted",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/11/Pizza_Furnace.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pizza_Furnace",
     "properties": {
@@ -20448,7 +20358,7 @@
     "name": "Pizza Oven",
     "description": "Making pizza isn't as difficult as some think, but one of the most important things is to keeping the oven at just the right temperature to give an even cook.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "ExoticPizza",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c7/Pizza_Oven.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pizza_Oven",
     "properties": {
@@ -20475,7 +20385,7 @@
     "name": "Pizza Parlor",
     "description": "It is ancient pizza knowledge that rotating ore around a steamin' hot pie enhances any mineral's properties! Loves negated ingredients.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "ExoticPizza",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/7f/Pizza_Parlor.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pizza_Parlor",
     "properties": {
@@ -20501,7 +20411,7 @@
     "name": "Pizza Research Center",
     "description": "Harness the awesome power of wheat, tomato and cheddar to produce 75 points every 40 flaming ore.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "CollectiblePizza",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e0/Pizza_Research_Center.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pizza_Research_Center",
     "properties": {
@@ -20524,7 +20434,7 @@
     "name": "Pizza Slice Wall",
     "description": "Show the kids next door how cheesy you get with a giant cheese wall",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectiblePizza",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/f8/Pizza_Slice_Wall.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pizza_Slice_Wall",
     "properties": {
@@ -20566,7 +20476,7 @@
     "name": "Plague Doctor",
     "description": "Plague Doctors, the mortals who dared challenge Ghosdeeri's plagues. While they had good intentions, their practices only caused more problems.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/17/Plague_Doctor.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Plague_Doctor",
     "properties": {
@@ -20594,7 +20504,7 @@
     "name": "Plagued Forest",
     "description": "A once lush and full of life forest, reduced to a wasteland of plague and disease.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/1f/Plagued_Forest.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Plagued_Forest",
     "properties": {
@@ -20696,7 +20606,7 @@
     "name": "Platinum Mine",
     "description": "Platinum is like gold, except shinier and the mine glows for some reason.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Common",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/8d/Platnium_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Platinum_Mine",
     "properties": {
@@ -20745,7 +20655,7 @@
     "name": "Plutonium Mine",
     "description": "Pure research-grade plutonium. Don't tell the government about this.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a1/Plutonium_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Plutonium_Mine",
     "properties": {
@@ -20782,19 +20692,6 @@
       "Sell Value": "Can't Sell",
       "Reason": "Replaced with Rock Climbing Wall",
       "Date Removed": "22 October, 2025"
-    }
-  },
-  {
-    "id": 904,
-    "name": "Portable Beach",
-    "description": "",
-    "category": "Decoration",
-    "tier": "Unknown",
-    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/f0/Portable_Beach.png",
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Portable_Beach",
-    "properties": {
-      "Effects": "Decoration",
-      "Source": "ROBLOX Catalog"
     }
   },
   {
@@ -20873,7 +20770,7 @@
     "name": "Portable Ore Enhancer",
     "description": "A raised version of the Portable Ore Advancer. Gives bonus upgrades for ore that it touches.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/ca/Portable_Ore_Enhancer.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Portable_Ore_Enhancer",
     "properties": {
@@ -20897,7 +20794,7 @@
     "name": "Portable Ore Stopper",
     "description": "A smaller version of the Portable Ore Advancer that can be attached to the edges of your conveyors for bonus upgrades.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Super Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/42/Portable_Ore_Stopper.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Portable_Ore_Stopper",
     "properties": {
@@ -21102,7 +20999,7 @@
     "name": "Precursor Furnace",
     "description": "A furnace made from technology older than humanity itself. Once incredibly powerful, its secret has been forgotten.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Advanced Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/72/Precursor_Furnace.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Precursor_Furnace",
     "properties": {
@@ -21177,7 +21074,7 @@
     "name": "Present Center",
     "description": "A seemingly sturdy wooden research furnace which produces 30 points every 15 ore. Requires silicon ore.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Quest",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/6c/Present_Center.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Present_Center",
     "properties": {
@@ -21217,11 +21114,11 @@
     "name": "Present Refiner",
     "description": "Presents are always full of surprises, who knows what your ore will get from this upgrader?",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/87/Present_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Present_Refiner",
     "properties": {
-      "Tier": "Collectible",
+      "Tier": "CollectibleHolidays",
       "Item Size": "3x6x3.33",
       "Date Added": "4 December, 2020",
       "Created By": "OPOPOPZXC",
@@ -21353,7 +21250,7 @@
     "name": "Proximated Ore Gate",
     "description": "A modified Timed Ore Gate which closes when an ore is approaching, and opens after the specified amount of time.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/9c/Proximated_Ore_Gate.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Proximated_Ore_Gate",
     "properties": {
@@ -21376,7 +21273,7 @@
     "name": "Pulsar Octagnium Mine",
     "description": "An absurdly powerful mine that samples the highest valued ore on your base and replicates it eight times. Vanishes when you rebirth.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Slipstream",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/95/Pulsar_Octagnium_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pulsar_Octagnium_Mine",
     "properties": {
@@ -21401,7 +21298,7 @@
   {
     "id": 660,
     "name": "Pulsar Octagnium Mine/Renegade",
-    "description": " · skipthispage=no · include={Quote}:1 · includetrim=}}",
+    "description": "An absurdly powerful mine that samples the highest valued ore on your base and replicates it eight times. Vanishes when you rebirth.",
     "category": "Dropper",
     "tier": "Renegade",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/95/Pulsar_Octagnium_Mine.png",
@@ -21571,7 +21468,7 @@
     "name": "Pumpkin Patch",
     "description": "Send your ore through the spooky pumpkin patch for a treat! 2017 Halloween Item.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a5/Pumpkin_Patch.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pumpkin_Patch",
     "properties": {
@@ -21647,7 +21544,7 @@
     "name": "Pumpkin Spice Refiner",
     "description": "A beverage seasoned with some pumpkin spice. While not candy, this add candy value to ore.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e9/Pumpkin_Spice_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Pumpkin_Spice_Refiner",
     "properties": {
@@ -21799,7 +21696,7 @@
     "name": "Putrid Gift of Harvest",
     "description": "This gift reek of a horrendous smell, so much so that maybe it's not a good idea to open.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/0d/Putrid_Gift_of_Harvest.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Putrid_Gift_of_Harvest",
     "properties": {
@@ -21979,7 +21876,7 @@
     "name": "Queen Birthday Cake",
     "description": "The queen of all cakes, the grandest trophy to complete the the cake collection.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Decimal Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/ba/Queen_Birthday_Cake.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Queen_Birthday_Cake",
     "properties": {
@@ -22252,7 +22149,7 @@
     "name": "Raised Furnace",
     "description": "An unstable furnace that can only be reached with a raised conveyor. Processes ore at six times their value.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "RAre",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/81/Raised_Furnace.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Raised_Furnace",
     "properties": {
@@ -22445,7 +22342,7 @@
     "name": "Red Velvet Cake",
     "description": "A luxurious red velvet cake, after having a taste, you'll only be left desiring more.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "ExoticBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/8c/Red_Velvet_Cake.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Red_Velvet_Cake",
     "properties": {
@@ -22535,29 +22432,11 @@
     }
   },
   {
-    "id": 1101,
-    "name": "Regeneration Infuser",
-    "description": "An advanced machine that heals its user by 1 hp every second until they die. You can only be infused once per life..",
-    "category": "Utility",
-    "tier": "Unknown",
-    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/d5/Regeneration_Infuser.png",
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Regeneration_Infuser",
-    "properties": {
-      "Item Size": "4x4x3",
-      "Date Added": "16 August, 2015",
-      "Created By": "Berezaa",
-      "Date Removed": "31 March, 2016",
-      "Reason": "Removal of PvP",
-      "Effects": "User renegerates 1 HP per second",
-      "Reborn Proof": "No"
-    }
-  },
-  {
     "id": 1270,
     "name": "Reinforced Furnace",
     "description": "A heavy furnace that quintiples [sic] the value of ore and awards decent research points. Difficult to get ore into.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/10/Reinforced_Furnace.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Reinforced_Furnace",
     "properties": {
@@ -22647,7 +22526,7 @@
     "name": "Remote Iron Mine",
     "description": "Buying a remote mine gives you access to a radio gui that allows you to remotely active [sic] this mine.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Common",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/bc/Remote_Iron_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Remote_Iron_Mine",
     "properties": {
@@ -22673,7 +22552,7 @@
     "name": "Remote Opal Mine",
     "description": "Pumps out large opal ore when remotely activated by the radio.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Super Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/30/Remote_Opal_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Remote_Opal_Mine",
     "properties": {
@@ -22721,7 +22600,7 @@
     "name": "Repulsion Device",
     "description": "This device uses extremely strong magnetics to upgrade ore. Like the Plasma Ore Polisher, it will upgrade every 10th ore. Cannot be used with plasma.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Mythic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/23/Repulsion_Device.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Repulsion_Device",
     "properties": {
@@ -22749,7 +22628,7 @@
     "name": "Research Center",
     "description": "A state-of-the-art research center that produces 85 points per 55 ore. Requires ore worth at least $1,000.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Super Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/62/Research_Center.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Research_Center",
     "properties": {
@@ -22900,7 +22779,12 @@
   {
     "id": 913,
     "name": "Road Flooring",
-    "description": "",
+    "description": {
+      "Straight": "A road.",
+      "Turned": "A road. It turns.",
+      "Crossroad": "A road. On all direction.",
+      "T-Road": "A road. It looks like a T.",
+    },
     "category": "Decoration",
     "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/1d/Road_Flooring.png",
@@ -22964,16 +22848,6 @@
     }
   },
   {
-    "id": 397,
-    "name": "Rock Candyizer",
-    "description": "",
-    "category": "Upgrader",
-    "tier": "Unknown",
-    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/dc/Orange_Rock_Candyizer.png",
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Rock_Candyizer",
-    "properties": {}
-  },
-  {
     "id": 1110,
     "name": "Rocket Launcher",
     "description": "Blow your enemies to bits with this terrifying rocket launcher!",
@@ -23032,7 +22906,7 @@
     "name": "Rotary Upgrader",
     "description": "Uses perpetual motion to constantly stay spinning, quadruples ore value one at a time.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Legendary",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/66/Rotary_Upgrader.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Rotary_Upgrader",
     "properties": {
@@ -23059,7 +22933,7 @@
     "name": "Royal Rabbit",
     "description": "The king of Easter deserves only the best quality, an upgrader made entirely out of gold in his honor!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "ExoticEaster",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/9e/Royal_Rabbit.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Royal_Rabbit",
     "properties": {
@@ -23242,7 +23116,7 @@
     "name": "Sacred Katana Stand",
     "description": "A giant katana stuck in a rock. Not worth much, except for the sweet working katanas it comes with.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Refined",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/fb/Sacred_Katana_Stand_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Sacred_Katana_Stand",
     "properties": {
@@ -23407,7 +23281,7 @@
     "name": "Sakura Falls",
     "description": "The purity of the Sakura Falls can withstand significantly larger volumes of ore.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c3/Sakura_Falls.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Sakura_Falls",
     "properties": {
@@ -23453,7 +23327,10 @@
   {
     "id": 392,
     "name": "Sandshark",
-    "description": "",
+    "description": {
+      "Sender": "Similar to the Goliath Skulls, the remains of these sand sharks have seen to open a link between each other.",
+      "Receiver": "While it does upgrade the ore through teleporting, unfortunately ores are so dry that they combust upon exiting.",
+    },
     "category": "Upgrader",
     "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/4a/Sandshark_%28Sender%29.png",
@@ -23956,7 +23833,7 @@
     "name": "Scorponyte Mine",
     "description": "Definitely worse than a bulllet [sic] ant sting. Immune to poison, but will become super charge [sic] when attempting to inflict poison upon it.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/b2/Scorponyte_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Scorponyte_Mine",
     "properties": {
@@ -23982,7 +23859,7 @@
     "name": "Searing Heat",
     "description": "A desolate wasteland overtaken by unbearable heat. The sunlight is enough to melt stone on the surface.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/7a/Searing_Heat.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Searing_Heat",
     "properties": {
@@ -24054,7 +23931,7 @@
     "name": "Separation Conveyor",
     "description": "A conveyor which separates small and large ore into two seperate [sic] lanes.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Uncommon",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/63/Separation_Conveyor.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Separation_Conveyor",
     "properties": {
@@ -24130,7 +24007,7 @@
     "name": "Shard City",
     "description": "Believe it or not, cities represented by this upgrader are look at being more underwhelming and poor regions, compared to the D.U.C's mega-cities.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/0d/Shard_City.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Shard_City",
     "properties": {
@@ -24188,7 +24065,7 @@
     "name": "Shield Generator",
     "description": "A titanium shield which protected knights in armor! Now you can protect your own valuables as well.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/d7/Shield_Generator.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Shield_Generator",
     "properties": {
@@ -24255,7 +24132,7 @@
     "name": "Shiny Red Upgrader",
     "description": "The shiniest upgrader you'll possibly see. This upgrader will make your ore into red tinted glass!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/3a/Shiny_Red_Upgrader.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Shiny_Red_Upgrader",
     "properties": {
@@ -24324,19 +24201,12 @@
     }
   },
   {
-    "id": 407,
-    "name": "Shop Upgraders",
-    "description": "",
-    "category": "Upgrader",
-    "tier": "Unknown",
-    "imageUrl": null,
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Shop_Upgraders",
-    "properties": {}
-  },
-  {
     "id": 1112,
     "name": "Shortcake Teleporter",
-    "description": "",
+    "description": {
+      "Sender": "Teleport your ores in tasty fruity style. Requires the Shortcake Teleporter Receiver.",
+      "Receiver": "A 3rd Anniversary teleporter for a sweet-toothed owner. Requires the Shortcake Teleporter Sender.",
+    },
     "category": "Utility",
     "tier": "CollectibleBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/76/Shortcake_Teleporter_%28Sender%29.png",
@@ -24363,7 +24233,7 @@
     "name": "Shrine of Creators",
     "description": "You've made huge contributions, and for that, you are awarded a mighty shrine.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/83/Shrine_of_Creators.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Shrine_of_Creators",
     "properties": {
@@ -24388,7 +24258,7 @@
     "name": "Shrine of Influencers",
     "description": "As an influencer, you help spread knowledge through the Haven, without you, history would be lost. Thank you for your efforts as a media creator.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c1/Shrine_of_Influencers.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Shrine_of_Influencers",
     "properties": {
@@ -24434,7 +24304,7 @@
     "name": "Silicon Excavator",
     "description": "A mine used not for its terrible ore value, but for its ability to be molded into toys!",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Quest",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e1/Silicon_Excavator.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Silicon_Excavator",
     "properties": {
@@ -24460,7 +24330,7 @@
     "name": "Silkweaver",
     "description": "A strange and muscular spider created a strong and thick web which has suspended an upgrader off the ground!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c2/Silkweaver.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Silkweaver",
     "properties": {
@@ -24487,7 +24357,7 @@
     "name": "Silver Mine",
     "description": "Silver ore is worth more than Iron and is mined much quicker.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Common",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/87/Silver_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Silver_Mine",
     "properties": {
@@ -24538,7 +24408,7 @@
   {
     "id": 417,
     "name": "Sinister Sepulcher/Renegade",
-    "description": " · skipthispage=no · include={Quote}:1 · includetrim=}}",
+    "description": "It is said that Charon's soul was locked away within this structure. The lack of soul leaves his being emotionless, making him the most menacing warden within Tartarus.",
     "category": "Upgrader",
     "tier": "Renegade",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/2b/Sinister_Sepulcher.png",
@@ -24649,7 +24519,7 @@
     "name": "Slanted Wall",
     "description": "Ain't no one stacking into your base with this sweet slanted wall. Ain't no one.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Uncommon",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/29/Slanted_Wall_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Slanted_Wall",
     "properties": {
@@ -24911,7 +24781,7 @@
     "name": "Snowman",
     "description": "Celebrate the snow with a friendly snowman decoration for your base. 2017 Winter Collectible.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c7/Snowman.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Snowman",
     "properties": {
@@ -24929,7 +24799,7 @@
     "name": "Soapy Refiner",
     "description": "A giant bar of soap, melted onto your conveyor to provide a clean and efficient way of cleaning your ore!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a2/Soapy_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Soapy_Refiner",
     "properties": {
@@ -24959,7 +24829,7 @@
     "name": "Soaring Chopper",
     "description": "A helicopter which infuses ore with helium if suspended in the sky.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/4c/Soaring_Chopper.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Soaring_Chopper",
     "properties": {
@@ -25167,7 +25037,7 @@
     "name": "Soul Blossom",
     "description": "The most forsaken art of magic was born when this plant bloomed, granting wizards the power they need to siphon living souls for their craft.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Decimal Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/35/Soul_Blossom.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Soul_Blossom",
     "properties": {
@@ -25263,7 +25133,7 @@
     "name": "Spectral Gift of Poltergeists",
     "description": "Scary, this present is haunted! True story!",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/3a/Spectral_Gift_of_Poltergeists.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Spectral_Gift_of_Poltergeists",
     "properties": {
@@ -25309,7 +25179,7 @@
     "name": "Spectral Research Center",
     "description": "Research in the paranormal field has proven to be both a waste of time yet also fascinating.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/39/Spectral_Research_Center.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Spectral_Research_Center",
     "properties": {
@@ -25953,7 +25823,7 @@
     "name": "Spooky Fruit Punch Processor",
     "description": "Add in your ore to the punch bowl to make some crazy combinations!",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/3f/Spooky_Fruit_Punch_Processor.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Spooky_Fruit_Punch_Processor",
     "properties": {
@@ -25975,7 +25845,7 @@
     "name": "Spooky Gift of Confusion",
     "description": "Is the gift alive, or is the gift dead? Who knows?",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/57/Spooky_Gift_of_Confusion.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Spooky_Gift_of_Confusion",
     "properties": {
@@ -25994,7 +25864,7 @@
     "name": "Spooky Particle",
     "description": "Give your character fancy particles with this unique limited-edition giver. 2017 Halloween Item",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/25/Spooky_Particle.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Spooky_Particle",
     "properties": {
@@ -26127,7 +25997,7 @@
     "name": "Spotlight Cannon",
     "description": "Light up the New Year with this baby! New years 2021 exclusive.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Collectible",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/83/Spotlight_Cannon.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Spotlight_Cannon",
     "properties": {
@@ -26213,7 +26083,7 @@
     "name": "Stardust Pulsar",
     "description": "Call upon the power of the solar system, in every star to power up your ores! Upgrades all ores on your plot by x35.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Advanced Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/8b/Stardust_Pulsar.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Stardust_Pulsar",
     "properties": {
@@ -26282,7 +26152,7 @@
     "name": "Statue of Sacrifice",
     "description": "A statue built from the destroyed remains of The Ultimate Sacrifice. A constant reminder of everything you've accomplished.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c8/Statue_of_Sacrifice.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Statue_of_Sacrifice",
     "properties": {
@@ -26375,7 +26245,7 @@
     "name": "Stellarite Mine",
     "description": "This device seems to call upon stars and crash them down to the surface! Quite literally, it's a shooting star. Receives bonus upgrade from star items.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Decimal Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/ba/Stellarite_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Stellarite_Mine",
     "properties": {
@@ -26456,7 +26326,7 @@
     "name": "Street Lamp",
     "description": "The ancient pavements motor vehicles traveled on would be dangerous places without these illuminating the path.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/17/Street_Lamp.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Street_Lamp",
     "properties": {
@@ -26525,7 +26395,7 @@
     "name": "Suitopian Refiner",
     "description": "An item that can be infinitely looped! However it has a risky chance of taking everything your ore owns.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Slipstream",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/3e/Suitopian_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Suitopian_Refiner",
     "properties": {
@@ -26740,7 +26610,7 @@
     "name": "Supreme Birthday Cake",
     "description": "The granddaddy of all birthday cakes. You'd expect nothing less from the 3rd Anniversary event.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "ExoticBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/85/Supreme_Birthday_Cake.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Supreme_Birthday_Cake",
     "properties": {
@@ -26837,7 +26707,7 @@
     "name": "Suspicious Refrigerator",
     "description": "Anybody need a new refrigerator?",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Divine",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/cb/Suspicious_Refrigerator.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Suspicious_Refrigerator",
     "properties": {
@@ -26925,7 +26795,7 @@
     "name": "Sweet Tooth",
     "description": "The sweetest furnace in Miner's Haven! 2016 Holiday Collectible.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c5/Sweet_Tooth.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Sweet_Tooth",
     "properties": {
@@ -27124,7 +26994,7 @@
     "name": "Symmetryte Mine",
     "description": "Unlocked version of Symmetrium that can produce many ores at once. Will break if more than one is placed down. Ores stop being upgraded if they lose their fire.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/ce/Symmetryte_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Symmetryte_Mine",
     "properties": {
@@ -27153,7 +27023,7 @@
     "name": "Tainted Gift of Blood",
     "description": "This gift emits a strong and deadly aura. Be careful, opening this may bring the attention of the cats.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/b3/Tainted_Gift_of_Blood.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Tainted_Gift_of_Blood",
     "properties": {
@@ -27173,7 +27043,7 @@
     "name": "Talon's Bakeshop",
     "description": "It's cake in a vending machine, what more could you ask for?",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Divine",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/83/Talon%27s_Bakeshop.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Talon's_Bakeshop",
     "properties": {
@@ -27194,7 +27064,7 @@
     "name": "Tankium Mine",
     "description": "The producer of this item says it is more like a tank than a mine. We do not suggest seriously using this.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/80/Tankium_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Tankium_Mine",
     "properties": {
@@ -27272,7 +27142,7 @@
     "name": "Teddy Bear Stuffer",
     "description": "A more decent toy upgrader. It'll convert your silicon ore into teddy bears!",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/50/Teddy_Bear_Stuffer.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Teddy_Bear_Stuffer",
     "properties": {
@@ -27465,7 +27335,7 @@
     "name": "The Abomination",
     "description": "On Halloween Day in 2019, A poor Iron Mine was corrupted with a mysterious black substance. The result of that corruption lead [sic] to this mine. Witnesses call this mine \"The Abomination\".",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/99/The_Abomination.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/The_Abomination",
     "properties": {
@@ -27779,7 +27649,7 @@
     "name": "The Crazy Hamburger",
     "description": "While this is just a large hamburger, it's laid here for centuries. Only a mad man would dare consume this hamburger.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/83/The_Crazy_Hamburger.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/The_Crazy_Hamburger",
     "properties": {
@@ -27838,7 +27708,7 @@
     "name": "The Daegelart",
     "description": "Perhaps evolutions have gone too far. By forcing The Abomination to evolve, you have created a monster that is capable of destroying other mines entirely to fuel its hunger.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/47/The_Daegelart.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/The_Daegelart",
     "properties": {
@@ -27886,7 +27756,7 @@
     "name": "The Darkest Infusion",
     "description": "Dark was their heart, and violent was their soul.' This Infuser grants the user the power to dash by double tapping in a direction, damaging foes unlucky enough to be caught in their path.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/15/The_Darkest_Infusion.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/The_Darkest_Infusion",
     "properties": {
@@ -27903,7 +27773,7 @@
     "name": "The Darkest Upgrader",
     "description": "The dark knight's blade imbues all it touches with darkness.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/f0/The_Darkest_Upgrader.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/The_Darkest_Upgrader",
     "properties": {
@@ -28029,7 +27899,7 @@
     "name": "The Dust Devil",
     "description": "Deserts in the haven are a myth. This upgrader to most Haveners is seen as almost surreal. Never before have they seen a tornado of sand.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/a/a8/The_Dust_Devil.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/The_Dust_Devil",
     "properties": {
@@ -28058,7 +27928,7 @@
     "name": "The Easter Shrine",
     "description": "Turns processed ore into shiny eggs that give a massive amount of money when picked up",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "ExoticEaster",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/e/e6/The_Easter_Shrine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/The_Easter_Shrine",
     "properties": {
@@ -28153,7 +28023,7 @@
     "name": "The Forbidden Tome",
     "description": "Something about this book makes you wonder whether you should've of dabbled in the Haven superstitions. It is too late to look back now.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/31/The_Forbidden_Tome.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/The_Forbidden_Tome",
     "properties": {
@@ -28217,7 +28087,7 @@
     "name": "The Grand Banana",
     "description": "So they're finally here, performing for you. If you know the words, you can join in too. Put your hands together, if you want to clap as we take you through this monkey rap!",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Decimal Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/dc/The_Grand_Banana.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/The_Grand_Banana",
     "properties": {
@@ -28270,7 +28140,7 @@
   {
     "id": 500,
     "name": "The Grand Prism/Renegade",
-    "description": " · skipthispage=no · include={Quote}:1 · includetrim=}}",
+    "description": "Most miners will live out their entire lives having never gazed upon the beauty and grace of the mythic Grand Prism.",
     "category": "Upgrader",
     "tier": "Renegade",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/21/The_Grand_Prism.png",
@@ -28635,7 +28505,7 @@
     "name": "The Rock",
     "description": "So it turns out that a rock you got from Halloween was good for something afterall.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/db/The_Rock.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/The_Rock",
     "properties": {
@@ -28872,7 +28742,7 @@
     "name": "The Vault",
     "description": "RBLX to the moon! This furnace value scales 1:1 off of what the Stock is traded for.",
     "category": "Furnace",
-    "tier": "Unknown",
+    "tier": "Eggxotic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/d8/The_Vault.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/The_Vault",
     "properties": {
@@ -28990,7 +28860,7 @@
     "name": "Thrust Pad",
     "description": "A futuristic pad that sends people flying much higher into the air than regular jump pads.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Premium",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/1b/Thrust_Pad_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Thrust_Pad",
     "properties": {
@@ -29037,7 +28907,7 @@
     "name": "Timed Ore Gate",
     "description": "A conveyor which opens and closes to allow or block ore within a set time interval.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Rare",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/66/Timed_Ore_Gate.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Timed_Ore_Gate",
     "properties": {
@@ -29083,7 +28953,7 @@
     "name": "Tinker Table",
     "description": "A table for miners who prefer to build their own mines.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Epic",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/9/94/Tinker_Table.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Tinker_Table",
     "properties": {
@@ -29215,7 +29085,7 @@
     "name": "Toxic Waste Disposal",
     "description": "Toxic waste so dangerous that even standing near this upgrader is enough to give third degree burns.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/0e/Toxic_Waste_Disposal.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Toxic_Waste_Disposal",
     "properties": {
@@ -29245,7 +29115,7 @@
     "name": "Toy Altar",
     "description": "A decorative altar awarded to those who obtained the berezaa Roblox toy in the mystical realm of life.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Fabled",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/53/Toy_Altar.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Toy_Altar",
     "properties": {
@@ -29264,7 +29134,7 @@
     "name": "Transylvanian Gift of Flames",
     "description": "This present emits a burning aura. While the wrapping paper looks like fire, something certainly is burning still",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/16/Transylvanian_Gift_of_Flames.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Transylvanian_Gift_of_Flames",
     "properties": {
@@ -29353,21 +29223,11 @@
     }
   },
   {
-    "id": 513,
-    "name": "Trinity Upgraders",
-    "description": "",
-    "category": "Upgrader",
-    "tier": "Unknown",
-    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/2b/Blazing_Father_of_Freon.png",
-    "wikiUrl": "https://minershaven.fandom.com/wiki/Trinity_Upgraders",
-    "properties": {}
-  },
-  {
     "id": 691,
     "name": "Triple Coal Mine",
     "description": "An advanced coal mine that instantly drops 3 coal ores every 4 seconds while still being the same size as a regular coal mine.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Premium",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/1/1d/Triple_Coal_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Triple_Coal_Mine",
     "properties": {
@@ -29436,7 +29296,7 @@
     "name": "Tropical Breeze",
     "description": "Nothing quite like a warm tropical breeze flowing through you. Sit back and relax, this upgrader's got you covered.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/6d/Tropical_Breeze.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Tropical_Breeze",
     "properties": {
@@ -29464,7 +29324,7 @@
     "name": "Tropical Holidays",
     "description": "So whoever wrapped this gift seems to have taken their entire vacation spot and put it all in a bag. It is unclear how this was possible.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHolidays",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/74/Tropical_Holidays.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Tropical_Holidays",
     "properties": {
@@ -29489,7 +29349,7 @@
     "name": "True Book of Knowledge",
     "description": "Passed down through the gods: The True Book of Knowledge. Unlike the fake book you got from Enchanting, this tome contains the knowledge behind Superstitious items.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Ultimate",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/d6/True_Book_of_Knowledge.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/True_Book_of_Knowledge",
     "properties": {
@@ -29537,7 +29397,7 @@
     "name": "Tsar Bomba",
     "description": "This beast of an upgrader has the power of 3,000 atomic bombs! It can be used 3 times, however has a chance of making ore radioactive if used more than once.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/6e/Tsar_Bomba.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Tsar_Bomba",
     "properties": {
@@ -29598,7 +29458,7 @@
     "name": "Turtle Dignifier",
     "description": "The turtles were a distant enemy of the frogs. No one messed with the turtles, as they were born with the most powerful armor during the Anura era.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Decimal Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/cf/Turtle_Dignifier.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Turtle_Dignifier",
     "properties": {
@@ -29817,7 +29677,7 @@
     "name": "Undead Doge Plushie",
     "description": "Words cannot describe the pure horror that this plushie inspires. A relic from the 2015 Halloween Event.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/8/88/Undead_Doge_Plushie.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Undead_Doge_Plushie",
     "properties": {
@@ -29951,7 +29811,7 @@
     "name": "Unobtainium Wall",
     "description": "How did you get this wall? It's unobtainable!",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "Refined",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/58/Unobtainium_Wall.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Unobtainium_Wall",
     "properties": {
@@ -30012,7 +29872,7 @@
     "name": "Uranium Mine",
     "description": "Uranium may be highly radioactive and generally unsafe, but boy does it make good money on the open market.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Uncommon",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c1/Uranium_Mine_HD.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Uranium_Mine",
     "properties": {
@@ -30062,7 +29922,7 @@
   {
     "id": 539,
     "name": "Utopian Refiner/Renegade",
-    "description": " · skipthispage=no · include={Quote}:1 · includetrim=}}",
+    "description": "The Utopian Refiner sees value in all ores. It offers a massive upgrade and sends you on your way.",
     "category": "Upgrader",
     "tier": "Renegade",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/bc/Utopian_Refiner.png",
@@ -30114,7 +29974,7 @@
     "name": "V-tolite Mine",
     "description": "Pilotite has limitations, being stuck in an upward motion. It has overcome that barrier, and has a jet mode now! -batteries not included-",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/f0/V-tolite_Mine.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/V-tolite_Mine",
     "properties": {
@@ -30139,7 +29999,10 @@
   {
     "id": 1136,
     "name": "Valentine's Teleporter",
-    "description": "",
+    "description": {
+      "Sender": "A pretty wholesome teleporter.. sender! Available during the 2020 Valentine's Event.",
+      "Receiver": "A pretty wholesome teleporter! Available during the 2020 Valentine's Event.",
+    },
     "category": "Utility",
     "tier": "CollectibleValentines",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/33/Valentine%27s_Teleporter_%28Sender%29.png",
@@ -30215,7 +30078,7 @@
     "name": "Vampiric Gift of Slumber",
     "description": "This gift has a strong scent of garlic.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/2c/Vampiric_Gift_of_Slumber.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Vampiric_Gift_of_Slumber",
     "properties": {
@@ -30394,7 +30257,7 @@
     "name": "Video Game Digitalizer",
     "description": "The best in town! This upgrader turns silicon ore into entire working game consoles! This upgrader increases present value by 25.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/29/Video_Game_Digitalizer.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Video_Game_Digitalizer",
     "properties": {
@@ -30417,7 +30280,7 @@
     "name": "Virtual Enchanter",
     "description": "An upgrader from an artificial universe. It seems to digitalize our reality surrounding it.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Advanced Evolution",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/38/Virtual_Enchanter.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Virtual_Enchanter",
     "properties": {
@@ -30585,7 +30448,7 @@
     "name": "Void Star",
     "description": "Such darkness. To think one day, the universe will go dark, never to experience light ever again. This upgrader shall be a reminder of the impending death of reality.",
     "category": "Upgrader",
-    "tier": "Unknown",
+    "tier": "Advanced Evolution",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/d/de/Void_Star.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Void_Star",
     "properties": {
@@ -31052,7 +30915,7 @@
     "name": "Wholesam Plushie",
     "description": "How could you?",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleEaster",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/5/57/Wholesam_Plushie.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Wholesam_Plushie",
     "properties": {
@@ -31250,7 +31113,7 @@
     "name": "Witch Doge",
     "description": "A doge trained by Meralin himself. Not to learn spells, but just to glow in the dark.",
     "category": "Decoration",
-    "tier": "Unknown",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/f/f3/Witch_Doge.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Witch_Doge",
     "properties": {
@@ -31606,7 +31469,7 @@
     "name": "Zenith Will",
     "description": "The existence of the supreme beings of this land were often told in fairy tales. However this infuser proves the existence of those deities, for this infuser was used to store their primal power.",
     "category": "Utility",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/33/Zenith_Will.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Zenith_Will",
     "properties": {
