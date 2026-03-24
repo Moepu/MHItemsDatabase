@@ -245,7 +245,7 @@
     "name": "Aerogel Refiner",
     "description": "Aerogel is very fire resistant, and seems to only respond to flaming ore.",
     "category": "Upgrader",
-    "tier": "Mythic",
+    "tier": "Unknown",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/03/Aerogel_Refiner.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Aerogel_Refiner",
     "properties": {
@@ -17401,9 +17401,9 @@
   {
     "id": 633,
     "name": "Newtonium Excavator",
-    "description": "An unthinkably powerful manual mine created by fringe science and lots of love. Receives special upgrades from radioactive based upgraders.",
+    "description": "An unthinkably powerful manual mine created by fringe science and lots of love.",
     "category": "Dropper",
-    "tier": "Unknown",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/c/c3/Newtonium_Excavator.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Newtonium_Excavator",
     "properties": {
