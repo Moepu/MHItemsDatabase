@@ -75,6 +75,7 @@ For the tiers of the items, use the format below:
   'ExoticSummer',
   'ExoticClover',
   'Eggxotic',
+  'Collectible',
   'CollectibleEaster',
   'CollectibleHalloween',
   'CollectibleHolidays',
