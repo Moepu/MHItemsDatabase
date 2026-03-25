@@ -6097,23 +6097,25 @@
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/be/Daestrophe.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Daestrophe",
     "properties": {
+      "Overview": "The Daestrophe is a <a href='https://minershaven.fandom.com/wiki/Category:Superstitious'>Superstitious</a>-<a href='https://minershaven.fandom.com/wiki/Item_Tiers'>tier</a> resetting device added in the <a href='https://minershaven.fandom.com/wiki/Reincarnation_Update'>Reincarnation Update</a>, based off of the god of Void, <a href='https://minershaven.fandom.com/wiki/Daegel' style='color:#ff3b30'>Daegel</a>.\n\nThe Daestrophe acts as another <a href='https://minershaven.fandom.com/wiki/Resetting_Device'>Resetting Device</a>, resetting all Machine tags for that ore. It also multiplies ore value by x100 with an additional x2 if the ore is on fire for a total of x200.\n\nThis upgrader is required to open the gate to The Heart of the Void, upgrading an ore from <a href='https://minershaven.fandom.com/wiki/The_Daegelart'>The Daegelart</a> to be processed in an <a href='https://minershaven.fandom.com/wiki/Eternal_Limbo'>Eternal Limbo</a>.\n\nUpon placement, a <span style='color:#ff0000'>loud and deep laugh accompanied by thunder</span> sound is heard across the server.",
       "Tier": "Superstitious",
       "Item Size": "6x10x4",
-      "Created By": "auxinite · hoshiisan",
+      "Created By": "• auxinite\n• hoshiisan",
       "Conveyor Speed": "800%+",
       "Conveyor Wall": "Yes",
       "Conveyor Elevation": "Ground",
-      "Effects": "Resets Machine tags · Resets Status effects · Multiplies ores by x100 · '''If ore is on fire''': · Additional x2 (x200 total)",
-      "Drawbacks": "Incompatible with Void Drive · Reduces Elysium Solemnity multiplier by 100k",
+      "Effects": "<span style='color:#fcba03;'>•&nbsp;</span> Resets Machine tags\n <span style='color:#fcba03;'>•&nbsp;</span> Resets Status effects\n\n<hr> <span style='color:#fcba03;'>•&nbsp;</span> Multiplies ores by x100 \n<span style='color:#fcba03;'>•&nbsp;</span> '''If ore is on <span style='color:#ff0000'>fire</span>''': · Additional x2 (x200 total)",
+      "Drawbacks": "<span style='color:#fcba03;'>•&nbsp;</span> Incompatible with <strong>Void Drive</strong>\n<span style='color:#fcba03;'>•&nbsp;</span> Reduces Elysium Solemnity multiplier by 100,000",
       "Source": "Using the Catalyst of Void and elements from Reborn-tier items with Draedon",
-      "Upgrade Limit": "1",
+      "Upgrade Limit": "1 (Incompatible with Resetting Devices)",
       "Upgrade Counter": "50",
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
       "Catalyst": "Catalyst of Void",
-      "Bok Multiplier": "Elysium Solemnity -100,000"
+      "Bok Multiplier": "Elysium Solemnity -100,000",
+      "Categories": "Resetting Device"
     }
   },
   {
@@ -6566,10 +6568,11 @@
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/0/05/Delta_Phantom.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Delta_Phantom",
     "properties": {
+      "Overview": "The Delta Phantom is a <a href='https://minershaven.fandom.com/wiki/Category:Superstitious'>Superstitious</a>-<a href='https://minershaven.fandom.com/wiki/Item_Tiers'>tier</a> upgrader added in the <a href='https://minershaven.fandom.com/wiki/Reincarnation_Update'>Reincarnation Update</a>.\n\nThe first 10 ores that pass through the Delta Phantom are all absorbed into the Delta signpiece, causing it to become increasingly neon pink. When the 11th ore travels through, all of the ores are released with a x100 multiplier, as well as the 11th ore receiving a x50 boost, for a total of x5000; the signpiece returns to a completely black colour. However, this 11th ore receives pink flames which will destroy the ore in 4 seconds unless extinguished.\n\n<span style='color:#ffffff;'><u><b>WARNING:</b></u></span> Ores absorbed by the Delta Phantom do not count towards the ore limit. When your ore limit is maxed out, it will <u><b>NOT</b></u> eject the stored ores.",
       "Tier": "Superstitious",
       "Item Size": "6x8x5",
       "Created By": "Frenzzyy",
-      "Effects": "First 10 ore: · *Value multiplied by x100. · *Absorbed into item. · 11th ore: · *Releases absorbed ore. · *Additional x50 (x5000 total). · *Set on fire. · Turns ore neon pink.",
+      "Effects": "<b>First 10 ores</b>:\n <span style='color:#fcba03;'>•&nbsp;</span> Value multiplied by x100.\n <span style='color:#fcba03;'>•&nbsp;</span> Absorbed into item.\n\n <hr> <span style='color:#fcba03;'>•&nbsp;</span> 11th ore: · <strong>Releases absorbed ore.</strong>\n <span style='color:#fcba03;'>•&nbsp;</span> Additional x50 (x5000 total).\n <span style='color:#fcba03;'>•&nbsp;</span> Set on <span style='color:#ff0000'>fire</span>.\n <span style='color:#fcba03;'>•&nbsp;</span> Turns ore <span style='color:#FF13F0'>neon pink</span>.",
       "Drawbacks": "Fire destroys 11th ore in 4 seconds.",
       "Source": "Using the Catalyst of Spirits and elements from Reborn-tier items with Draedon",
       "Conveyor Speed": "100%",
