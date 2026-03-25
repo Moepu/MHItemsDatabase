@@ -7018,7 +7018,7 @@
     "name": "Dimension Extractor",
     "description": "To this day, the origins of the material this mine harvests is still unknown. What we do know is that we are robbing a dimension of eternal wealth.",
     "category": "Dropper",
-    "tier": "EvolvedReborn",
+    "tier": "Evolved Reborn",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/60/Dimension_Extractor.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Dimension_Extractor",
     "properties": {
@@ -10815,7 +10815,7 @@
     "name": "Ghosdeeri's Plague",
     "description": "The blade Ghosdeeri wields when inflicting the land with disastrous plagues and diseases.",
     "category": "Utility",
-    "tier": "Collectible Halloween",
+    "tier": "CollectibleHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/6/68/Ghosdeeri%27s_Plague.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Ghosdeeri's_Plague",
     "properties": {
@@ -15968,7 +15968,7 @@
     "name": "Magical Gift of Crucibles",
     "description": "Inside you can hear a cauldron brewing.",
     "category": "Decoration",
-    "tier": "Exotic Halloween",
+    "tier": "ExoticHalloween",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/b/b7/Magical_Gift_of_Crucibles.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Magical_Gift_of_Crucibles",
     "properties": {
