@@ -15014,7 +15014,7 @@
       "Tier": "Decimal Limited Reborn",
       "Item Size": "9x12x10",
       "Date Added": "12 June, 2020",
-      "Created By": " · Frenzzyy · Gounin60 · AwfulUnlawful · Lord_Piro · TheGrand_Wiz · Supz_Boi · Incendispike · DarkNexus3 · Negativize · rainbowfurryraver",
+      "Created By": "Frenzzyy · Gounin60 · AwfulUnlawful · Lord_Piro · TheGrand_Wiz · Supz_Boi · Incendispike · DarkNexus3 · Negativize · rainbowfurryraver",
       "Item Events": "5th Anniversary · 6th Anniversary · 7th Anniversary · 8th Anniversary · 9th Anniversary · 10th Anniversary",
       "Effects": "Base Multiplier of x50 · Machine tags from other cake items increase multiplier by +10 · Machine tags from the following items also increase multiplier by +10 · Red Velvet Cake · Chocolate Cupcake · Blueberry Pie · Strawberry Cake · Caramel Birthday Cake",
       "Drawbacks": "Caps at x100",
@@ -19171,6 +19171,33 @@
       "Categories": "Utility"
     }
   },
+    {
+    "id": null,
+    "name": "Renegade Ore Supernova",
+    "description": "The Ore Supernova grants a massive upgrade to all dropped ores when activated. Ores can only be upgraded by it once.",
+    "category": "Upgrader",
+    "tier": "Renegade",
+    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/7/77/Ore_Supernova.png",
+    "wikiUrl": "https://minershaven.fandom.com/wiki/Ore_Supernova",
+    "properties": {
+      "Tier": "Renegade",
+      "Item Size": "3x4x3",
+      "Date Added": "25 June, 2024",
+      "Created By": "OutOfOrderFoxy",
+      "Effects": "Multiplies ore value by 20x · Gives Gargantium Mine ores immunity from fire",
+      "Source": "Converted by the Everlasting Key.",
+      "Life Required": "2+",
+      "Upgrade Limit": "1",
+      "Upgrade Counter": "10",
+      "Reborn Proof": "Yes",
+      "Sacrifice Proof": "No",
+      "Sell Value": "Can't Sell",
+      "Cost": "Can't Buy",
+      "Bok Multiplier": "Interstellar Conqueror x5.98 · Gargantium Mine: Gives fire immunity",
+      "Drawbacks": "35? Second cooldown · Not resettable",
+      "Categories": "Utility"
+    }
+  },
   {
     "id": 321,
     "name": "Ore Thermocrusher",
@@ -21905,7 +21932,7 @@
       "Tier": "Decimal Limited Reborn",
       "Item Size": "13x12x10",
       "Date Added": "12 June, 2020",
-      "Created By": "· Frenzzyy · Gounin60 · AwfulUnlawful · Lord_Piro · TheGrand_Wiz · Supz_Boi · Incendispike · DarkNexus3 · Negativize · rainbowfurryraver",
+      "Created By": "Frenzzyy · Gounin60 · AwfulUnlawful · Lord_Piro · TheGrand_Wiz · Supz_Boi · Incendispike · DarkNexus3 · Negativize · rainbowfurryraver",
       "Item Events": "5th Anniversary · 6th Anniversary · 7th Anniversary · 8th Anniversary · 9th Anniversary · 10th Anniversary",
       "Effects": "Base multiplier of x500 · Multiplier +1 for every life the user has surpassed · Multiplier +5.5k if King Birthday Cake Machine tag is present",
       "Drawbacks": "Life-affected multiplier caps at x5.5k (Life 5k) · Max total multiplier of x11k",
@@ -28204,6 +28231,28 @@
       "Created By": "Lawlzwuff",
       "Date Added": "8 March, 2017",
       "Life Required": "2+",
+      "Effects": "Base multiplier of x7B, increase by x7B every time an ore is processed. · ---- · Maximum cap of x350T"
+    }
+  },
+    {
+    "id": null,
+    "name": "Renegade The Great Parasite",
+    "description": "The Great Parasite is greedy, and requires additional ore from your base to feast upon.",
+    "category": "Furnace",
+    "tier": "Renegade",
+    "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/39/The_Great_Parasite.png",
+    "wikiUrl": "https://minershaven.fandom.com/wiki/The_Great_Parasite",
+    "properties": {
+      "Tier": "Renegade",
+      "Source": "Converted by the Everlasting Key.",
+      "Item Size": "6x5x7",
+      "Reborn Proof": "Yes",
+      "Sacrifice Proof": "No",
+      "Sell Value": "Can't Sell",
+      "Cost": "Can't Buy",
+      "Created By": "Lawlzwuff",
+      "Date Added": "25 June, 2024",
+      "Life Required": "10,000+",
       "Effects": "Base multiplier of x7B, increase by x7B every time an ore is processed. · ---- · Maximum cap of x350T"
     }
   },
