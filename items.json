@@ -2333,7 +2333,7 @@
     "name": "Birthday Doge",
     "description": "It's Doge's Birthday, wish Doge a happy birthday. DO IT WISH DOGE A HAPPY BIRTHDAY!",
     "category": "Decoration",
-    "tier": "CollectiblBirthday",
+    "tier": "CollectibleBirthday",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/2/25/Birthday_Doge.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Birthday_Doge",
     "properties": {
@@ -3954,7 +3954,7 @@
     "name": "Castle Bravo",
     "description": "A doomsday device which destroyed entire solar systems during the wars against the Valkyrians. The Dracoherds wer [sic] only the beginning of the D.U.C and its galactic Empire.",
     "category": "Upgrader",
-    "tier": "Advabced Evolution",
+    "tier": "Advanced Evolution",
     "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/4/4f/Castle_Bravo.png",
     "wikiUrl": "https://minershaven.fandom.com/wiki/Castle_Bravo",
     "properties": {
