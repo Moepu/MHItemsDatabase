@@ -2717,7 +2717,7 @@
     "name": "Blue Ore Teleporter",
     "description": {
       "Sender": "Super advanced technology that teleporters ore to a receiver. If more than 1 receiver is down, it will pick one at random. REQUIRES A RECEIVER TELEPORTER.",
-      "Receiver": "A wide conveyor that teleported ore appears at. Requires a sender teleporter to work. If there is more than one receiver, teleports will pick them at random.",
+      "Receiver": "A wide conveyor that teleported ore appears at. Requires a sender teleporter to work. If there is more than one receiver, teleports will pick them at random."
     },
     "category": "Utility",
     "tier": "Rare",
@@ -8306,7 +8306,7 @@
       "Sell Value": "Can't sell",
       "Item Events": "Easter 2020 · Easter 2021",
       "Source": "Redeem at Flea Bag",
-      "Requirements": "Eggscream Badge","
+      "Requirements": "Eggscream Badge"
     }
   },
   {
@@ -12003,7 +12003,7 @@
     "name": "Goliath Skull",
     "description": {
       "Sender": "Titans couldn't ever perish. These skulls are said to resemble the skulls of the two living Titans: Solumn and Kromos.",
-      "Receiver": "After tormenting ore, this skull will release the ore it has consumed. The ore released would be stained with crimson fluid.",
+      "Receiver": "After tormenting ore, this skull will release the ore it has consumed. The ore released would be stained with crimson fluid."
     },
     "category": "Upgrader",
     "tier": "ExoticHalloween",
@@ -13785,7 +13785,7 @@
     "description": {
       "Corner": "A corner walkway for making turns.",
       "Stairway": "Ladders were overrated anyways...",
-      "Straight": "A straight walkway for walking safely across.",
+      "Straight": "A straight walkway for walking safely across."
     },
     "category": "Decoration",
     "tier": "Hydraulic",
@@ -16525,7 +16525,7 @@
       "Ramp": "A track that'll inevitably reach new heights, just not quickly",
       "Cross": "A nifty component used to allow 2 different tracks to intersect. There's no stoplight tracks so please be safe",
       "Start": "A minecart just waiting to go on an adventure!",
-      "End": "The grand ending to Cart Ride Through Two Player Gun Factory Tycoon (While it's on fire!)",
+      "End": "The grand ending to Cart Ride Through Two Player Gun Factory Tycoon (While it's on fire!)"
     },
     "category": "Decoration",
     "tier": "Fabled",
@@ -17015,7 +17015,7 @@
       "Effects": "Processes ore at (Life÷2)x its value",
       "Created By": "SeenVerge · SoberBrew, Crushieyot · S_tarlit · PokemonMaster8619",
       "Sacrifice Proof": "No",
-      "Drawbacks": "Multiplier caps at x22,500"
+      "Drawbacks": "Multiplier caps at x22,500",
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Sell Value": "Can't Sell",
@@ -17094,7 +17094,7 @@
     "name": "Nebula System",
     "description": {
       "Ore Nebula": "A device that harnesses the power of a nebula to move massive amounts of ore. Requires a Nebula Receiver. Replaces Ore Pulsars. 2016 Black Friday Artifact Reward.",
-      "Nebula Receiver": "Receives ore from the Ore Nebula. 2016 Black Friday Artifact reward.",
+      "Nebula Receiver": "Receives ore from the Ore Nebula. 2016 Black Friday Artifact reward."
     },
     "category": "Utility",
     "tier": "Fabled",
@@ -18051,7 +18051,7 @@
     "name": "Orange Teleporter",
     "description": {
       "Sender": "A special teleporter that teleporters ores to orange teleport receivers. Requires receivers to function",
-      "Receiver": "A special teleport receiver that accepts ores from yellow teleporters only.",
+      "Receiver": "A special teleport receiver that accepts ores from yellow teleporters only."
     },
     "category": "Utility",
     "tier": "Premium",
@@ -22805,7 +22805,7 @@
       "Straight": "A road.",
       "Turned": "A road. It turns.",
       "Crossroad": "A road. On all direction.",
-      "T-Road": "A road. It looks like a T.",
+      "T-Road": "A road. It looks like a T."
     },
     "category": "Decoration",
     "tier": "Fabled",
@@ -23351,7 +23351,7 @@
     "name": "Sandshark",
     "description": {
       "Sender": "Similar to the Goliath Skulls, the remains of these sand sharks have seen to open a link between each other.",
-      "Receiver": "While it does upgrade the ore through teleporting, unfortunately ores are so dry that they combust upon exiting.",
+      "Receiver": "While it does upgrade the ore through teleporting, unfortunately ores are so dry that they combust upon exiting."
     },
     "category": "Upgrader",
     "tier": "Eggxotic",
@@ -24227,7 +24227,7 @@
     "name": "Shortcake Teleporter",
     "description": {
       "Sender": "Teleport your ores in tasty fruity style. Requires the Shortcake Teleporter Receiver.",
-      "Receiver": "A 3rd Anniversary teleporter for a sweet-toothed owner. Requires the Shortcake Teleporter Sender.",
+      "Receiver": "A 3rd Anniversary teleporter for a sweet-toothed owner. Requires the Shortcake Teleporter Sender."
     },
     "category": "Utility",
     "tier": "CollectibleBirthday",
@@ -30023,7 +30023,7 @@
     "name": "Valentine's Teleporter",
     "description": {
       "Sender": "A pretty wholesome teleporter.. sender! Available during the 2020 Valentine's Event.",
-      "Receiver": "A pretty wholesome teleporter! Available during the 2020 Valentine's Event.",
+      "Receiver": "A pretty wholesome teleporter! Available during the 2020 Valentine's Event."
     },
     "category": "Utility",
     "tier": "CollectibleValentines",
@@ -30709,7 +30709,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Source": "Redeems at Flea Bag",
-      "Requirements": "Disco Egg Badge","
+      "Requirements": "Disco Egg Badge"
     }
   },
   {
