@@ -1644,7 +1644,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell"
-      "MPU": "x1.55"  
+      "MPU": "x1.55",
     }
   },
   {
@@ -2233,7 +2233,7 @@
       "Upgrade Limit": "1 (Resettable)",
       "Upgrade Counter": "1",
       "Item Events": "Winter Event 2020 · Winter Event 2025"
-      "MPU": "x1.41"
+      "MPU": "x1.41",
     }
   },
   {
@@ -2436,7 +2436,7 @@
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
       "Item Events": "1st Anniversary · ---- · 5th Anniversary",
-      "MPU": "x1.316"
+      "MPU": "x1.316",
     }
   },
   {
@@ -3349,7 +3349,7 @@
       "Upgrade Counter": "1",
       "Upgrade Limit": "1 (Resettable)",
       "Item Events": "Easter 2021"
-      "MPU": "x1.31"
+      "MPU": "x1.31",
     }
   },
   {
@@ -10765,7 +10765,7 @@
       "Sell Value": "Can't Sell",
       "Bok Multiplier": "x1.19",
       "Item Events": "Halloween 2020 · Halloween 2021"
-      "MPU": "x1.19"
+      "MPU": "x1.19",
     }
   },
   {
@@ -10790,7 +10790,7 @@
       "Conveyor Speed": "100%",
       "Conveyor Wall": "Enclosed",
       "Conveyor Elevation": "Ground"
-      "MPU": "x1.51 (average)"
+      "MPU": "x1.51 (average)",
     }
   },
   {
@@ -10909,7 +10909,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "Yes",
       "Cost": "(?)"
-      "MPU": "x1.22"
+      "MPU": "x1.22",
     }
   },
   {
@@ -12108,7 +12108,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell"
-      "MPU": "x1.28"
+      "MPU": "x1.28",
     }
   },
   {
@@ -12254,7 +12254,7 @@
       "Sacrifice Proof": "No",
       "Cost": "300 Shards",
       "Sell Value": "14 Shards"
-      "MPU": "x1.48"
+      "MPU": "x1.48",
     }
   },
   {
@@ -12404,7 +12404,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Item Size": "6x6x4"
-      "MPU": "x1.44"
+      "MPU": "x1.44",
     }
   },
   {
@@ -12433,7 +12433,7 @@
       "Sacrifice Proof": "No",
       "Cost": "375 Shards",
       "Sell Value": "17 Shards"
-      "MPU": "x1.71"
+      "MPU": "x1.71",
     }
   },
   {
@@ -13088,7 +13088,7 @@
       "Conveyor Elevation": "Adjustable",
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No"
-      "MPU": "x1.37"
+      "MPU": "x1.37",
     }
   },
   {
@@ -13751,7 +13751,7 @@
       "Cost": "$2.8qd",
       "Sell Value": "$980T",
       "Upgrade Counter": "0.5",
-      "MPU": "x1.118"
+      "MPU": "x1.118",
     }
   },
   {
@@ -14132,7 +14132,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell"
-      "MPU": "x1.53 (average)"
+      "MPU": "x1.53 (average)",
     }
   },
   {
@@ -15423,7 +15423,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell"
-      "MPU": "x1.71 - x1.91 (First Upgrade) · x1.32 - 1.68 (Second upgrade and up)"
+      "MPU": "x1.71 - x1.91 (First Upgrade) · x1.32 - 1.68 (Second upgrade and up)",
     }
   },
   {
@@ -15737,7 +15737,7 @@
       "Conveyor Speed": "100%",
       "Conveyor Elevation": "Way-Up-High",
       "Item Events": "Easter 2021"
-      "MPU": "x1.38 (Average)"
+      "MPU": "x1.38 (Average)",
     }
   },
   {
@@ -15808,7 +15808,7 @@
       "Sacrifice Proof": "Yes",
       "Sell Value": "Can't Sell",
       "Cost": "Can't Buy"
-      "MPU": "x1.38 (Average)"
+      "MPU": "x1.38 (Average)",
     }
   },
   {
@@ -16069,7 +16069,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell"
-      "MPU": "x1.50"
+      "MPU": "x1.50",
     }
   },
   {
@@ -16324,7 +16324,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell"
-      "MPU": "x1.20"
+      "MPU": "x1.20",
     }
   },
   {
@@ -17225,7 +17225,7 @@
       "Sell Value": "Can't Sell",
       "Source": "Evolve with 10 Red Giants at The Craftsman.",
       "Evolve From": "Red Giant"
-      "MPU": "x1.09 (Average)"
+      "MPU": "x1.09 (Average)",
     }
   },
   {
@@ -18556,7 +18556,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "MPU": "x1.32"
+      "MPU": "x1.32",
     }
   },
   {
@@ -18691,7 +18691,7 @@
       "Bok Multiplier": "Book of Knowledge +5,000 · Ore Memer x3",
       "Item Vfx": "Illuminatis everywhere.",
       "Evolve From": "Ore Illuminator",
-      "MPU": "x2.955"
+      "MPU": "x2.955",
     }
   },
   {
@@ -18804,7 +18804,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "63k to 150k RP",
       "Sell Value": "Can't Sell",
-      "MPU": "x1.068"
+      "MPU": "x1.068",
     }
   },
   {
@@ -19117,7 +19117,7 @@
       "Sell Value": "16 Shards",
       "Upgrade Limit": "1 (Resettable)",
       "Upgrade Counter": "1",
-      "MPU": "~x1.12 (minimum), ~x1.47 (maximum)"
+      "MPU": "~x1.12 (minimum), ~x1.47 (maximum)",
     }
   },
   {
@@ -19777,7 +19777,7 @@
       "Sell Value": "Can't Sell",
       "Upgrade Limit": "3 (Resettable)",
       "Upgrade Counter": "1"
-      "MPU": "x1.17"
+      "MPU": "x1.17",
     }
   },
   {
@@ -20139,7 +20139,7 @@
       "Upgrade Limit": "1 (Resettable)",
       "Upgrade Counter": "1",
       "Item Events": "10th Anniversary",
-      "MPU": "x1.44 (normal) · x1.59 (Pineapple Refiner)"
+      "MPU": "x1.44 (normal) · x1.59 (Pineapple Refiner)",
     }
   },
   {
@@ -20212,7 +20212,7 @@
       "Sacrifice Proof": "Yes",
       "Sell Value": "Can't Sell",
       "Item Vfx": "Sand particles."
-      "MPU": "x1.03 (Worst scenario) · x2.13 (Best scenario)"
+      "MPU": "x1.03 (Worst scenario) · x2.13 (Best scenario)",
     }
   },
   {
@@ -20280,7 +20280,7 @@
       "Cost": "250 Shards",
       "Sell Value": "12 Shards",
       "Bok Multiplier": "Pizza Furnace · +2,500 (Normal) · +5,000 (Shiny)",
-      "MPU": "x1.26"
+      "MPU": "x1.26",
     }
   },
   {
@@ -20486,7 +20486,7 @@
       "Bok Multiplier": "Pizza Furnace +2,000 (once)",
       "Date Removed": "22 October, 2025",
       "Reason": "Replaced by Pizza Oven"
-      "MPU": "x6.45 (Average)"
+      "MPU": "x6.45 (Average)",
     }
   },
   {
@@ -21326,7 +21326,7 @@
       "Item Size": "7x10x8",
       "Date Added": "August 30, 2025",
       "Created By": "Lightningboy_Eric · Pengy_RBX"
-      "MPU": "''Daytime'': x1.75 (At base) · x1.84 (Away) · ''Night'': x1.86 (At base) · x1.91 (Away)"
+      "MPU": "''Daytime'': x1.75 (At base) · x1.84 (Away) · ''Night'': x1.86 (At base) · x1.91 (Away)",
     }
   },
   {
@@ -22421,7 +22421,7 @@
       "Sacrifice Proof": "No",
       "Cost": "275 Shards",
       "Sell Value": "13 Shards"
-      "MPU": "x1.05 (Average)"
+      "MPU": "x1.05 (Average)",
     }
   },
   {
@@ -23466,7 +23466,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell"
-      "MPU": "x1.38 (Worst scenario) · x1.56 (Best scenario)"
+      "MPU": "x1.38 (Worst scenario) · x1.56 (Best scenario)",
     }
   },
   {
@@ -23829,7 +23829,7 @@
       "Sacrifice Proof": "No",
       "Cost": "$1O",
       "Sell Value": "$350Sp"
-      "MPU": "x1.044 (Average)"
+      "MPU": "x1.044 (Average)",
     }
   },
   {
@@ -23887,7 +23887,7 @@
       "Sacrifice Proof": "No",
       "Cost": "375 Shards",
       "Sell Value": "17 Shards"
-      "MPU": "x1.38"
+      "MPU": "x1.38",
     }
   },
   {
@@ -24063,7 +24063,7 @@
       "Cost": "$5Qn",
       "Sell Value": "$1.75Qn",
       "Drawbacks": "Crooked Conveyor · Large ores may get stuck"
-      "MPU": "x1.09"
+      "MPU": "x1.09",
     }
   },
   {
@@ -24603,7 +24603,7 @@
       "Sacrifice Proof": "No",
       "Cost": "450 Shards",
       "Sell Value": "20 Shards"
-      "MPU": "x1.26"
+      "MPU": "x1.26",
     }
   },
   {
@@ -24818,7 +24818,7 @@
       "Rarity": "15",
       "Source": "Rebirth",
       "Effects": "Multiplies ore value by x6 · ---- · +2 to Present Value"
-      "MPU": "x1.57"
+      "MPU": "x1.57",
     }
   },
   {
@@ -25265,7 +25265,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell"
-       "MPU": "x1.43"
+       "MPU": "x1.43",
     }
   },
   {
@@ -25364,7 +25364,7 @@
       "Conveyor Speed": "100%",
       "Conveyor Elevation": "Ground",
       "Item Events": "Easter 2021"
-      "MPU": "x1.38 (Average)"
+      "MPU": "x1.38 (Average)",
     }
   },
   {
@@ -26019,7 +26019,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell"
-      "MPU": "x1.19 (Average with no Unreal boxes)"
+      "MPU": "x1.19 (Average with no Unreal boxes)",
     }
   },
   {
@@ -26631,7 +26631,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell"
-      "MPU": "x1.15 (Average)"
+      "MPU": "x1.15 (Average)",
     }
   },
   {
@@ -27530,7 +27530,7 @@
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
       "Bok Multiplier": "Deluxe Beehive: x2 to base multi · Honeycomb Cake: +1",
-      "MPU": ""
+      "MPU": "x1.87"
     }
   },
   {
@@ -29172,7 +29172,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Conveyor Speed": "100%"
-      "MPU": "x1.50"
+      "MPU": "x1.50",
     }
   },
   {
@@ -29322,7 +29322,7 @@
       "Conveyor Elevation": "Ground to Raised",
       "Upgrade Limit": "1 (Resettable)",
       "Upgrade Counter": "1.2"
-      "MPU": "x1.23"
+      "MPU": "x1.23",
     }
   },
   {
@@ -30483,7 +30483,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "MPU": "x1.00 (Minimum) · x2.11 (Maximum)"
+      "MPU": "x1.00 (Minimum) · x2.11 (Maximum)",
     }
   },
   {
@@ -31205,7 +31205,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "MPU": "x1.681"
+      "MPU": "x1.681",
     }
   },
   {
