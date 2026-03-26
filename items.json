@@ -319,7 +319,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "+210 Aether Refinery · +500 Aethereal Synthesizer",
+      "Affects these Items/Multipliers": "+210 Aether Refinery · +500 Aethereal Synthesizer",
       "MPU": "x4.2 (45%) - x1.432 · x7 (5%) - x1.627 · x9 (5%) - x1.732 · x20 (5%) - x2.115 · Average - x1.921"
     }
   },
@@ -650,7 +650,7 @@
       "Conveyor Speed": "100%",
       "Conveyor Wall": "Yes",
       "Conveyor Elevation": "Ground",
-      "Bok Multiplier": "Book of Knowledge +2,500",
+      "Affects these Items/Multipliers": "Book of Knowledge +2,500",
       "Life Required": "15+",
       "MPU": "Decimal: x1.585 · Odd integer: x1.670 · Even integer: x1.810"
     }
@@ -762,7 +762,7 @@
       "Sacrifice Proof": "No",
       "Cost": "450 Shards",
       "Sell Value": "20 Shards",
-      "Bok Multiplier": "Book of Knowledge +1,000",
+      "Affects these Items/Multipliers": "Book of Knowledge +1,000",
       "MPU": "Whole Number - x1.380 · Decimal - 1.246",
       "Submission Tier": "Exotic"
     }
@@ -1614,7 +1614,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Dreamer's Blight +250 (once)",
+      "Affects these Items/Multipliers": "Dreamer's Blight +250 (once)",
       "MPU": "*< $1k ore value: 1.919 · *< $1k ore value with blight: 1.956 · *≥ $1k ore value: 1.709 · *≥ $1k ore value with blight: 1.742"
     }
   },
@@ -2285,7 +2285,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "MPU": "Top: x1.91 · Bottom: x1.76",
-      "Bok Multiplier": "Soul Blossom +1"
+      "Affects these Items/Multipliers": "Soul Blossom +1"
     }
   },
   {
@@ -2346,7 +2346,7 @@
       "Sacrifice Proof": "Yes",
       "Sell Value": "$26.2M",
       "Item Size": "3x3x2",
-      "Bok Multiplier": "Canis Processus +21 (once)",
+      "Affects these Items/Multipliers": "Canis Processus +21 (once)",
       "Item Events": "6th Anniversary"
     }
   },
@@ -2488,7 +2488,7 @@
       "Sacrifice Proof": "No",
       "Cost": "660 Shards",
       "Sell Value": "24 Shards",
-      "Bok Multiplier": "Elysium Solemnity -25,000"
+      "Affects these Items/Multipliers": "Elysium Solemnity -25,000"
     }
   },
   {
@@ -2811,7 +2811,7 @@
       "Cost": "Can't buy",
       "Sell Value": "Can't sell",
       "MPU": "x1.38",
-      "Bok Multiplier": "King Birthday Cake +10"
+      "Affects these Items/Multipliers": "King Birthday Cake +10"
     }
   },
   {
@@ -2896,7 +2896,7 @@
       "Reborn Proof": "No",
       "Sacrifice Proof": "No",
       "Cost": "$470M",
-      "Bok Multiplier": "Book of Knowledge +150"
+      "Affects these Items/Multipliers": "Book of Knowledge +150"
     }
   },
   {
@@ -3504,7 +3504,7 @@
       "Upgrade Counter": "1",
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "Yes",
-      "Bok Multiplier": "Interstellar Conqueror: x3.288",
+      "Affects these Items/Multipliers": "Interstellar Conqueror: x3.288",
       "Categories": "Utility"
     }
   },
@@ -3800,7 +3800,7 @@
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
       "Item Events": "2018 Birthday event",
-      "Bok Multiplier": "King Birthday Cake: +10",
+      "Affects these Items/Multipliers": "King Birthday Cake: +10",
       "MPU": "x1.35"
     }
   },
@@ -4895,7 +4895,7 @@
       "Conveyor Wall": "Yes",
       "Conveyor Elevation": "Ground",
       "Upgrade Counter": "2",
-      "Bok Multiplier": "King Birthday Cake: +10",
+      "Affects these Items/Multipliers": "King Birthday Cake: +10",
       "MPU": "x1.258",
       "Ore Material": "Sand",
       "Item Events": "5th Anniversary"
@@ -5061,7 +5061,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Citrus Cake 10x",
+      "Affects these Items/Multipliers": "Citrus Cake 10x",
       "MPU": "x1.37"
     }
   },
@@ -5263,7 +5263,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Canis Processus +21 (once)"
+      "Affects these Items/Multipliers": "Canis Processus +21 (once)"
     }
   },
   {
@@ -5385,7 +5385,7 @@
       "Reborn Proof": "No",
       "Sacrifice Proof": "No",
       "Cost": "$5T",
-      "Bok Multiplier": "Book of Knowledge +170"
+      "Affects these Items/Multipliers": "Book of Knowledge +170"
     }
   },
   {
@@ -5835,7 +5835,7 @@
       "Sacrifice Proof": "No",
       "Cost": "720 Shards",
       "Sell Value": "26 Shards",
-      "Bok Multiplier": "+2,000 (Unsealed) · (Currently Broken)",
+      "Affects these Items/Multipliers": "+2,000 (Unsealed) · (Currently Broken)",
       "Item Vfx": "Different stages of the Crystal Shrine display different colors."
     }
   },
@@ -6083,7 +6083,7 @@
       "Ore Value": "$12",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Ore Memer x20",
+      "Affects these Items/Multipliers": "Ore Memer x20",
       "Date Removed": "22 October, 2025",
       "Reason": "Replaced by Swag Iron Mine"
     }
@@ -6114,7 +6114,7 @@
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
       "Catalyst": "Catalyst of Void",
-      "Bok Multiplier": "Elysium Solemnity -100,000",
+      "Affects these Items/Multipliers": "Elysium Solemnity -100,000",
       "Categories": "Resetting Device"
     }
   },
@@ -6139,7 +6139,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Book of Knowledge +3,500",
+      "Affects these Items/Multipliers": "Book of Knowledge +3,500",
       "Item Vfx": "Illuminati Particles"
     }
   },
@@ -6301,7 +6301,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Dreamer's Blight +250 (once)",
+      "Affects these Items/Multipliers": "Dreamer's Blight +250 (once)",
       "MPU": "x1.63"
     }
   },
@@ -6610,7 +6610,7 @@
       "Upgrade Counter": "1",
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "Yes",
-      "Bok Multiplier": "Honeycomb Cake +1",
+      "Affects these Items/Multipliers": "Honeycomb Cake +1",
       "MPU": "x1.87 (standalone) · x2.65 (With The Beehive)"
     }
   },
@@ -6749,7 +6749,7 @@
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
       "MPU": "x1.674 (Base Multiplier) · x1.721 (Dreamer's Blight) · 1.732 (Dreamer's Devastation)",
-      "Bok Multiplier": "Dreamer's Blight: +500"
+      "Affects these Items/Multipliers": "Dreamer's Blight: +500"
     }
   },
   {
@@ -7136,7 +7136,7 @@
       "Soulbound": "Yes",
       "Sell Value": "Can't Sell",
       "Cost": "''See Item Requirements''",
-      "Bok Multiplier": "The Guillotine · x45 · (when all 4 beam is hit)"
+      "Affects these Items/Multipliers": "The Guillotine · x45 · (when all 4 beam is hit)"
     }
   },
   {
@@ -7594,7 +7594,7 @@
       "Sacrifice Proof": "No",
       "Cost": "550 Shards",
       "Sell Value": "24 Shards",
-      "Bok Multiplier": "Dreamer's Life +50 (once)"
+      "Affects these Items/Multipliers": "Dreamer's Life +50 (once)"
     }
   },
   {
@@ -7643,7 +7643,7 @@
       "Sacrifice Proof": "No",
       "Cost": "690 Shards",
       "Sell Value": "26 Shards",
-      "Bok Multiplier": "Dreamer's Life +50 (once) · Deadly Spore +3 (once) · Vampire Spore +3 (once) · Devil's Spore + 4 (once) · Azure Spore +3/+6 (once)",
+      "Affects these Items/Multipliers": "Dreamer's Life +50 (once) · Deadly Spore +3 (once) · Vampire Spore +3 (once) · Devil's Spore + 4 (once) · Azure Spore +3/+6 (once)",
       "Categories": "Furnace"
     }
   },
@@ -7693,7 +7693,7 @@
       "Sacrifice Proof": "No",
       "Cost": "175 Shards",
       "Sell Value": "9 Shards",
-      "Bok Multiplier": "Dreamer's Life +50 (once)",
+      "Affects these Items/Multipliers": "Dreamer's Life +50 (once)",
       "Drawbacks": "Chance to process ore at a negative value · Takes away Research Points"
     }
   },
@@ -7747,7 +7747,7 @@
       "Sacrifice Proof": "No",
       "Cost": "250 Shards",
       "Sell Value": "12 Shards",
-      "Bok Multiplier": "Dreamer's Life +50 (once)"
+      "Affects these Items/Multipliers": "Dreamer's Life +50 (once)"
     }
   },
   {
@@ -7771,7 +7771,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Dreamer's Life +50 (once)"
+      "Affects these Items/Multipliers": "Dreamer's Life +50 (once)"
     }
   },
   {
@@ -7793,7 +7793,7 @@
       "Sacrifice Proof": "No",
       "Cost": "$672N",
       "Sell Value": "$235N",
-      "Bok Multiplier": "Dreamer's Life +50 (once)"
+      "Affects these Items/Multipliers": "Dreamer's Life +50 (once)"
     }
   },
   {
@@ -7821,7 +7821,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Dreamer's Life +50 (once)"
+      "Affects these Items/Multipliers": "Dreamer's Life +50 (once)"
     }
   },
   {
@@ -7844,7 +7844,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Dreamer's Life +50 (once)"
+      "Affects these Items/Multipliers": "Dreamer's Life +50 (once)"
     }
   },
   {
@@ -9133,7 +9133,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "(?)",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Santa's Castle +2",
+      "Affects these Items/Multipliers": "Santa's Castle +2",
       "MPU": "x1.31"
     }
   },
@@ -9639,7 +9639,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Canis Processus +21 (once)"
+      "Affects these Items/Multipliers": "Canis Processus +21 (once)"
     }
   },
   {
@@ -10757,7 +10757,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "(?)",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "x1.19",
+      "Affects these Items/Multipliers": "x1.19",
       "Item Events": "Halloween 2020 · Halloween 2021"
     }
   },
@@ -10855,7 +10855,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Spector of Christmas Present: x2 · Phantom of Christmas Future: x2 · Santa's Castle +2"
+      "Affects these Items/Multipliers": "Spector of Christmas Present: x2 · Phantom of Christmas Future: x2 · Santa's Castle +2"
     }
   },
   {
@@ -10986,7 +10986,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Sell Value": "$945",
-      "Bok Multiplier": "Canis Processus +2"
+      "Affects these Items/Multipliers": "Canis Processus +2"
     }
   },
   {
@@ -11070,7 +11070,7 @@
       "Reborn Proof": "No",
       "Sacrifice Proof": "No",
       "Created By": "Berezaa",
-      "Bok Multiplier": "Book of Knowledge +200"
+      "Affects these Items/Multipliers": "Book of Knowledge +200"
     }
   },
   {
@@ -11529,7 +11529,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Gingerbread Mansion +4 · Santa's Castle +2",
+      "Affects these Items/Multipliers": "Gingerbread Mansion +4 · Santa's Castle +2",
       "MPU": "x2.24",
       "Item Events": "Christmas 2016",
       "Source": "Tree-Shaped Gift"
@@ -11899,7 +11899,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "Yes",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Golden Clover Refiner +5",
+      "Affects these Items/Multipliers": "Golden Clover Refiner +5",
       "Item Events": "Golden Clover Event · ----- · St. Patrick's Day 2020 · ----- · St. Patrick's Day 2023"
     }
   },
@@ -11975,7 +11975,7 @@
       "Sell Value": "Can't Sell",
       "Item Events": "St. Patrick's Day 2020 · St. Patrick's Day 2024",
       "Source": "The Leprechaun",
-      "Bok Multiplier": "Golden Clover Refiner +2.5"
+      "Affects these Items/Multipliers": "Golden Clover Refiner +2.5"
     }
   },
   {
@@ -13384,7 +13384,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "Yes",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Honeycomb Cake +1",
+      "Affects these Items/Multipliers": "Honeycomb Cake +1",
       "MPU": "x1.220",
       "Cost": "Can't Buy"
     }
@@ -13576,7 +13576,7 @@
       "Tier": "Refined",
       "Item Size": "2x2x2",
       "Date Added": "1 December, 2019",
-      "Bok Multiplier": "Canis Processus +3",
+      "Affects these Items/Multipliers": "Canis Processus +3",
       "Date Removed": "22 October, 2025",
       "Reason": "Replaced by Hydraulic Fargield"
     }
@@ -14631,7 +14631,7 @@
       "Rarity": "0.75",
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
-      "Bok Multiplier": "Book of Knowledge +2000"
+      "Affects these Items/Multipliers": "Book of Knowledge +2000"
     }
   },
   {
@@ -14749,7 +14749,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Ore Memer x2"
+      "Affects these Items/Multipliers": "Ore Memer x2"
     }
   },
   {
@@ -14794,7 +14794,7 @@
       "Ore Value": "$50k",
       "Upgrade Counter": "0",
       "Ore Material": "Plastic",
-      "Bok Multiplier": "Ore Memer x20",
+      "Affects these Items/Multipliers": "Ore Memer x20",
       "Date Removed": "22 October, 2025",
       "Reason": "Replaced by Doge Chad Mine"
     }
@@ -15033,7 +15033,7 @@
       "Source": "Rebirth",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Queen Birthday Cake +5.5k",
+      "Affects these Items/Multipliers": "Queen Birthday Cake +5.5k",
       "MPU": "x1.544 (minimum) · x1.668 (maximum)",
       "Life Required": "0+",
       "Rarity": "0.5"
@@ -15092,7 +15092,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Book of Knowledge +3,000",
+      "Affects these Items/Multipliers": "Book of Knowledge +3,000",
       "Drawbacks": "Ore can't be shrunk."
     }
   },
@@ -15555,7 +15555,7 @@
       "Range": "Medium",
       "Special Ability": "[Q/E/F + Left Click] Start spinning, Repeating 3 times will creates a small cyclone of dark matter around the player dealing lethal damage to most target caught in it that last for 5 seconds. After the ability end, the entirety of the dark matter cyclone will disperse and fall to the ground, dealing damage to anything it touch in the process.",
       "Weapon Icon": "Dual Darkhearts.png",
-      "Bok Multiplier": "Book of Knowledge +7,500"
+      "Affects these Items/Multipliers": "Book of Knowledge +7,500"
     }
   },
   {
@@ -15605,7 +15605,7 @@
       "Soulbound": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Book of Knowledge +5,000",
+      "Affects these Items/Multipliers": "Book of Knowledge +5,000",
       "Created By": "OutOfOrderFoxy",
       "Special Ability": "[Q/E/F + Left Click] Start spinning, Repeating 3 times will creates a small storm of Illumina around the player dealing lethal damage to most target caught in it that last for 5 seconds. After the ability end, the entirety of the Illumina storm will disperse and fall to the ground, dealing damage to anything it touch in the process.",
       "Damage": "Extremely High",
@@ -15670,7 +15670,7 @@
       "Sacrifice Proof": "Yes",
       "Sell Value": "Can't Sell",
       "Reason": "End of Magic Clover Event",
-      "Bok Multiplier": "Canis Processus +21 (once)"
+      "Affects these Items/Multipliers": "Canis Processus +21 (once)"
     }
   },
   {
@@ -16004,7 +16004,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Sell Value": "$4.20M",
-      "Bok Multiplier": "Book of Knowledge +50"
+      "Affects these Items/Multipliers": "Book of Knowledge +50"
     }
   },
   {
@@ -16351,7 +16351,7 @@
       "Sacrifice Proof": "No",
       "Catalyst": "Catalyst of Magic",
       "MPU": "Before Methuselah's Mask/on its own: x1.944-x2.046, geometric mean x2.00 · After Methuselah's Mask: x2.046-x2.161, geometric mean x2.09",
-      "Bok Multiplier": "Methuselah's Mask: Removes replicator ban and anti-gravity from possible effects"
+      "Affects these Items/Multipliers": "Methuselah's Mask: Removes replicator ban and anti-gravity from possible effects"
     }
   },
   {
@@ -16426,7 +16426,7 @@
       "Sell Value": "Can't Sell",
       "Catalyst": "Catalyst of Necromancy",
       "Beam Size": "???",
-      "Bok Multiplier": "Meralin's Sorcery: turns multiplier range to x150-x220, size locks ore, does not poison"
+      "Affects these Items/Multipliers": "Meralin's Sorcery: turns multiplier range to x150-x220, size locks ore, does not poison"
     }
   },
   {
@@ -17115,7 +17115,7 @@
       "Drawbacks": "1 minute cooldown",
       "Reborn Proof": "Yes",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Interstellar Conqueror x5.96"
+      "Affects these Items/Multipliers": "Interstellar Conqueror x5.96"
     }
   },
   {
@@ -17474,7 +17474,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Ore Memer x20",
+      "Affects these Items/Multipliers": "Ore Memer x20",
       "Item Vfx": "Ores turn into heads when player reaches $1O or more"
     }
   },
@@ -17971,7 +17971,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Book of Knowledge +1,337",
+      "Affects these Items/Multipliers": "Book of Knowledge +1,337",
       "MPU": "x1.052 (minimum) · x2.305 (maximum)"
     }
   },
@@ -18584,7 +18584,7 @@
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
       "Catalyst": "Catalyst of Space",
-      "Bok Multiplier": "Interstellar Conqueror: x5.96 · Gargantium Mine: Instant Draedon's Gauntlet upgrade",
+      "Affects these Items/Multipliers": "Interstellar Conqueror: x5.96 · Gargantium Mine: Instant Draedon's Gauntlet upgrade",
       "Categories": "Utility"
     }
   },
@@ -18615,7 +18615,7 @@
       "Sacrifice Proof": "No",
       "Cost": "325 Shards",
       "Sell Value": "12 Shards",
-      "Bok Multiplier": "Book of Knowledge +1,000 · Ore Memer x3",
+      "Affects these Items/Multipliers": "Book of Knowledge +1,000 · Ore Memer x3",
       "Item Vfx": "Illuminatis everywhere.",
       "MPU": "x1.63"
     }
@@ -18667,7 +18667,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Book of Knowledge +5,000 · Ore Memer x3",
+      "Affects these Items/Multipliers": "Book of Knowledge +5,000 · Ore Memer x3",
       "Item Vfx": "Illuminatis everywhere.",
       "Evolve From": "Ore Illuminator",
       "MPU": "2.955"
@@ -18755,7 +18755,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Book of Knowledge +13,337 · Canis Processus +75",
+      "Affects these Items/Multipliers": "Book of Knowledge +13,337 · Canis Processus +75",
       "MPU": "x7.77 (80%) - 1.670 · x13.37 (13.5%) - 1.912 · x36 (4.5%) - 2.449 · x42 (2%) - 2.55 · Average - 1.798"
     }
   },
@@ -18809,7 +18809,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "*Interstellar Conqueror x5.96 · *Gargantium Mine: Gives perm. Nova effect",
+      "Affects these Items/Multipliers": "*Interstellar Conqueror x5.96 · *Gargantium Mine: Gives perm. Nova effect",
       "Categories": "Utility"
     }
   },
@@ -18858,7 +18858,7 @@
       "Sacrifice Proof": "No",
       "Cost": "$1.45M",
       "Sell Value": "$507k",
-      "Bok Multiplier": "Interstellar Conqueror x1.35 (once)"
+      "Affects these Items/Multipliers": "Interstellar Conqueror x1.35 (once)"
     }
   },
   {
@@ -18907,7 +18907,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Interstellar Conqueror x1.8 · Gargantium Mine: Grants Poison and Radioactive immunity"
+      "Affects these Items/Multipliers": "Interstellar Conqueror x1.8 · Gargantium Mine: Grants Poison and Radioactive immunity"
     }
   },
   {
@@ -19175,7 +19175,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Interstellar Conqueror x5.98 · Gargantium Mine: Gives fire immunity",
+      "Affects these Items/Multipliers": "Interstellar Conqueror x5.98 · Gargantium Mine: Gives fire immunity",
       "Drawbacks": "35? Second cooldown · Not resettable",
       "Categories": "Utility"
     }
@@ -19202,7 +19202,7 @@
       "Sacrifice Proof": "No",
       "Sell Value": "Can't Sell",
       "Cost": "Can't Buy",
-      "Bok Multiplier": "Interstellar Conqueror x5.98 · Gargantium Mine: Gives fire immunity",
+      "Affects these Items/Multipliers": "Interstellar Conqueror x5.98 · Gargantium Mine: Gives fire immunity",
       "Drawbacks": "35? Second cooldown · Not resettable",
       "Categories": "Utility"
     }
@@ -19508,7 +19508,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "Yes",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Canis Processus +21 (once)"
+      "Affects these Items/Multipliers": "Canis Processus +21 (once)"
     }
   },
   {
@@ -19589,7 +19589,7 @@
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
       "Special Ability": "* '''[Q]''' Summons five pillars around the player. After a while, they will violently attack in a wide radius, dealing heavy damage. · * '''[Double-Click]''' Dashes forward, doing heavy damage to victims if the move connects.",
-      "Bok Multiplier": "Book of Knowledge +4,000"
+      "Affects these Items/Multipliers": "Book of Knowledge +4,000"
     }
   },
   {
@@ -19801,7 +19801,7 @@
       "Cost": "(?)",
       "Sell Value": "Can't Sell",
       "MPU": "x1.32",
-      "Bok Multiplier": "Santa's Castle +2"
+      "Affects these Items/Multipliers": "Santa's Castle +2"
     }
   },
   {
@@ -19825,7 +19825,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Ghost of Christmas Past: x2 · Spector of Christmas Present: x2"
+      "Affects these Items/Multipliers": "Ghost of Christmas Past: x2 · Spector of Christmas Present: x2"
     }
   },
   {
@@ -20256,7 +20256,7 @@
       "Sacrifice Proof": "No",
       "Cost": "250 Shards",
       "Sell Value": "12 Shards",
-      "Bok Multiplier": "Pizza Furnace · +2,500 (Normal) · +5,000 (Shiny)",
+      "Affects these Items/Multipliers": "Pizza Furnace · +2,500 (Normal) · +5,000 (Shiny)",
       "MPU": "1.26"
     }
   },
@@ -20317,7 +20317,7 @@
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
       "MPU": "1.308",
-      "Bok Multiplier": "Pizza Furnace · +5,000",
+      "Affects these Items/Multipliers": "Pizza Furnace · +5,000",
       "Drawbacks": "Fine-point upgrade beam."
     }
   },
@@ -20337,7 +20337,7 @@
       "Sell Value": "$14M",
       "Item Events": "Pizza Party · 5th Anniversary · 6th Anniversary",
       "Pizza Multiplier": "+1,000",
-      "Bok Multiplier": "Canis Processus +21 (once) · Pizza Furnace +1,000 (once)",
+      "Affects these Items/Multipliers": "Canis Processus +21 (once) · Pizza Furnace +1,000 (once)",
       "Source": "Premium Shop",
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "Yes"
@@ -20360,7 +20360,7 @@
       "Effects": "Emits a decent amount of light in the direction it's facing.",
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "Yes",
-      "Bok Multiplier": "Pizza Furnace +1,000 (once)",
+      "Affects these Items/Multipliers": "Pizza Furnace +1,000 (once)",
       "Source": "Premium Shop"
     }
   },
@@ -20435,7 +20435,7 @@
       "Sacrifice Proof": "Yes",
       "Sell Value": "Can't Sell",
       "Cost": "Can't Buy",
-      "Bok Multiplier": "Pizza Furnace +2,000 (once)"
+      "Affects these Items/Multipliers": "Pizza Furnace +2,000 (once)"
     }
   },
   {
@@ -20459,7 +20459,7 @@
       "Upgrade Limit": "1 (Resettable)",
       "Upgrade Counter": "x50k: 21 · Other: 1",
       "Pizza Multiplier": "+2,000",
-      "Bok Multiplier": "Pizza Furnace +2,000 (once)",
+      "Affects these Items/Multipliers": "Pizza Furnace +2,000 (once)",
       "Date Removed": "22 October, 2025",
       "Reason": "Replaced by Pizza Oven"
     }
@@ -20483,7 +20483,7 @@
       "Source": "Premium Shop",
       "Effects": "Processes ore at x5 value",
       "Drawbacks": "Require flaming ore to give RP",
-      "Bok Multiplier": "Pizza Furnace +1,000 (once)",
+      "Affects these Items/Multipliers": "Pizza Furnace +1,000 (once)",
       "Item Events": "5th Anniversary · 6th Anniversary"
     }
   },
@@ -20505,7 +20505,7 @@
       "Sell Value": "$17.5M",
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "Yes",
-      "Bok Multiplier": "Pizza Furnace +1,000 (once)"
+      "Affects these Items/Multipliers": "Pizza Furnace +1,000 (once)"
     }
   },
   {
@@ -20525,7 +20525,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "Yes",
       "Sell Value": "$17.5M",
-      "Bok Multiplier": "Pizza Furnace +1,500 (once)",
+      "Affects these Items/Multipliers": "Pizza Furnace +1,500 (once)",
       "Source": "Premium Shop"
     }
   },
@@ -20961,7 +20961,7 @@
       "Conveyor Speed": "100%",
       "Upgrade Limit": "1 (Resettable)",
       "Upgrade Counter": "6",
-      "Bok Multiplier": "Golden Clover Refiner +5",
+      "Affects these Items/Multipliers": "Golden Clover Refiner +5",
       "Item Events": "St. Patrick's Day 2020",
       "MPU": "x1.348"
     }
@@ -21249,7 +21249,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Sell Value": "$1.01k",
-      "Bok Multiplier": "Book of Knowledge +100 · Ore Memer x2",
+      "Affects these Items/Multipliers": "Book of Knowledge +100 · Ore Memer x2",
       "MPU": "x1.07"
     }
   },
@@ -21349,7 +21349,7 @@
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
       "Life Required": "2+",
-      "Bok Multiplier": "Interstellar Conqueror x3.33",
+      "Affects these Items/Multipliers": "Interstellar Conqueror x3.33",
       "Ore Material": "Neon"
     }
   },
@@ -21470,7 +21470,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Great Pumpkin: x2",
+      "Affects these Items/Multipliers": "Great Pumpkin: x2",
       "MPU": "1.414",
       "Item Events": "Halloween 2016 · ----- · Halloween 2019 · ----- · Halloween 2020 · ----- · Halloween 2021"
     }
@@ -21545,7 +21545,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Great Pumpkin x2"
+      "Affects these Items/Multipliers": "Great Pumpkin x2"
     }
   },
   {
@@ -22334,7 +22334,7 @@
       "Requirements": "Be a member of the [https://www.roblox.com/groups/3514227/Roblox-DevForum-Community Developers] [https://devforum.roblox.com/ Forums] on ROBLOX.",
       "Reborn Proof": "Yes",
       "Soulbound": "Yes",
-      "Bok Multiplier": "Book of Knowledge +1,000"
+      "Affects these Items/Multipliers": "Book of Knowledge +1,000"
     }
   },
   {
@@ -22418,7 +22418,7 @@
       "Conveyor Elevation": "Ground",
       "MPU": "~1.42",
       "Drawbacks": "Ores larger than 1.5x1.5x1.5 cannot fit",
-      "Bok Multiplier": "King Birthday Cake: +10",
+      "Affects these Items/Multipliers": "King Birthday Cake: +10",
       "Ore Material": "Neon",
       "Item Events": "5th Anniversary"
     }
@@ -22446,7 +22446,7 @@
       "Upgrade Limit": "1 (Resettable)",
       "Upgrade Counter": "0",
       "Item Events": "10th Anniversary",
-      "Bok Multiplier": "King Birthday Cake: +10",
+      "Affects these Items/Multipliers": "King Birthday Cake: +10",
       "Categories": "Utility"
     }
   },
@@ -22698,7 +22698,7 @@
       "Sacrifice Proof": "No",
       "Cost": "$5B",
       "Sell Value": "$1.75B",
-      "Bok Multiplier": "Book of Knowledge +1000",
+      "Affects these Items/Multipliers": "Book of Knowledge +1000",
       "Effects": "Processes ore at 3x their value",
       "Item Size": "4x4x2"
     }
@@ -22719,7 +22719,7 @@
       "Source": "Joining [https://www.roblox.com/groups/2628255/Addicted-Miners#!/about Addicted Miners] Roblox Group",
       "Reborn Proof": "Yes",
       "Soulbound": "Yes",
-      "Bok Multiplier": "Book of Knowledge +1,000"
+      "Affects these Items/Multipliers": "Book of Knowledge +1,000"
     }
   },
   {
@@ -23306,7 +23306,7 @@
       "Sell Value": "Can't Sell",
       "Effects": "For each full upgrade counter on an ore, the multiplier incrementally increases by 1.75x.",
       "Drawbacks": "~314 upgrades max (x550)",
-      "Bok Multiplier": "Book of Knowledge +1,000",
+      "Affects these Items/Multipliers": "Book of Knowledge +1,000",
       "Life Required": "0+"
     }
   },
@@ -23486,7 +23486,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Santa's Castle +2",
+      "Affects these Items/Multipliers": "Santa's Castle +2",
       "MPU": "x1.25 (standard) · x1.32 (Santa's Sleigh)"
     }
   },
@@ -23563,7 +23563,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Santa's Deluxe Sleigh: +1 · Santa's Castle: +2",
+      "Affects these Items/Multipliers": "Santa's Deluxe Sleigh: +1 · Santa's Castle: +2",
       "MPU": "x1.41"
     }
   },
@@ -24304,7 +24304,7 @@
       "Soulbound": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Book of Knowledge +2,000",
+      "Affects these Items/Multipliers": "Book of Knowledge +2,000",
       "Damage": "?",
       "Range": "Melee",
       "Weapon Icon": "Atalibur.png",
@@ -24333,7 +24333,7 @@
       "Damage": "?",
       "Range": "Melee",
       "Weapon Icon": "Magmere.png",
-      "Bok Multiplier": "Book of Knowledge +2,000"
+      "Affects these Items/Multipliers": "Book of Knowledge +2,000"
     }
   },
   {
@@ -24830,7 +24830,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Santa's Castle +2 (once)",
+      "Affects these Items/Multipliers": "Santa's Castle +2 (once)",
       "MPU": "*1st usage: x1.260 · *2nd to 4th usage: x1.110"
     }
   },
@@ -24936,7 +24936,7 @@
       "Upgrade Counter": "1",
       "Reborn Proof": "Yes",
       "Soulbound": "Yes",
-      "Bok Multiplier": "Awakened Jack O Lantern: x45 - x2600",
+      "Affects these Items/Multipliers": "Awakened Jack O Lantern: x45 - x2600",
       "MPU": "x1.41"
     }
   },
@@ -25183,7 +25183,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Ghost of Christmas Past: x2 · Phantom of Christmas Future: x2"
+      "Affects these Items/Multipliers": "Ghost of Christmas Past: x2 · Phantom of Christmas Future: x2"
     }
   },
   {
@@ -26132,7 +26132,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Interstellar Conqueror x4.7",
+      "Affects these Items/Multipliers": "Interstellar Conqueror x4.7",
       "Categories": "Utility"
     }
   },
@@ -26160,7 +26160,7 @@
       "Sacrifice Proof": "No",
       "Cost": "690 Shards",
       "Sell Value": "25 Shards",
-      "Bok Multiplier": "Interstellar Conqueror x4.18 · Gargantium Mine: Gradual upgrades to ores"
+      "Affects these Items/Multipliers": "Interstellar Conqueror x4.18 · Gargantium Mine: Gradual upgrades to ores"
     }
   },
   {
@@ -26202,7 +26202,7 @@
       "Upgrade Counter": "1.4",
       "Reborn Proof": "Yes",
       "Soulbound": "Yes",
-      "Bok Multiplier": "Book of Knowledge +3,000"
+      "Affects these Items/Multipliers": "Book of Knowledge +3,000"
     }
   },
   {
@@ -26223,7 +26223,7 @@
       "Soulbound": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Book of Knowledge +1,000"
+      "Affects these Items/Multipliers": "Book of Knowledge +1,000"
     }
   },
   {
@@ -26322,7 +26322,7 @@
       "Ore Material": "Neon",
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
-      "Bok Multiplier": "Book of Knowledge +4,500"
+      "Affects these Items/Multipliers": "Book of Knowledge +4,500"
     }
   },
   {
@@ -26374,7 +26374,7 @@
       "Sell Value": "Can't Sell",
       "Upgrade Counter": "6",
       "Item Events": "Birthday Event 2017",
-      "Bok Multiplier": "King Birthday Cake: +10",
+      "Affects these Items/Multipliers": "King Birthday Cake: +10",
       "MPU": "x1.47",
       "Upgrade Limit": "1 (Resettable)"
     }
@@ -26418,7 +26418,7 @@
       "Reborn Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Book of Knowledge +2,500"
+      "Affects these Items/Multipliers": "Book of Knowledge +2,500"
     }
   },
   {
@@ -26563,7 +26563,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Book of Knowledge +500"
+      "Affects these Items/Multipliers": "Book of Knowledge +500"
     }
   },
   {
@@ -26942,7 +26942,7 @@
       "Sell Value": "25 Shards",
       "Weapon Icon": "Darkheart.png",
       "Special Ability": "+7 speed · 30+ max HP · CRIT: Chars enemy, doing serious damage and fully healing the user.",
-      "Bok Multiplier": "+2,500",
+      "Affects these Items/Multipliers": "+2,500",
       "Damage": "?",
       "Range": "Close Range"
     }
@@ -27490,7 +27490,7 @@
       "Sacrifice Proof": "Yes",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Deluxe Beehive: x2 to base multi · Honeycomb Cake: +1",
+      "Affects these Items/Multipliers": "Deluxe Beehive: x2 to base multi · Honeycomb Cake: +1",
       "MPU": "x1.87"
     }
   },
@@ -28163,7 +28163,7 @@
       "Sell Value": "Can't Sell",
       "Special Ability": "When a player steps on it, they explode and die.",
       "Damage": "90 (?)",
-      "Bok Multiplier": "Book of Knowledge +1,000"
+      "Affects these Items/Multipliers": "Book of Knowledge +1,000"
     }
   },
   {
@@ -28577,7 +28577,7 @@
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
       "MPU": "x1.97",
-      "Bok Multiplier": "Pizza Furnace Additional x5000 multiplier"
+      "Affects these Items/Multipliers": "Pizza Furnace Additional x5000 multiplier"
     }
   },
   {
@@ -28661,7 +28661,7 @@
       "Sacrifice Proof": "No",
       "Cost": "425 Shards",
       "Sell Value": "19 Shards",
-      "Bok Multiplier": "Soul Blossom +1",
+      "Affects these Items/Multipliers": "Soul Blossom +1",
       "MPU": "x1.52"
     }
   },
@@ -28814,7 +28814,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "Yes",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Book of Knowledge +1,000"
+      "Affects these Items/Multipliers": "Book of Knowledge +1,000"
     }
   },
   {
@@ -29205,7 +29205,7 @@
       "Created By": "Emi1o · Lightningboy_Eric",
       "Reborn Proof": "Yes",
       "Source": "Berezaa's toy code",
-      "Bok Multiplier": "Book of Knowledge +2,000",
+      "Affects these Items/Multipliers": "Book of Knowledge +2,000",
       "Soulbound": "Yes"
     }
   },
@@ -29441,7 +29441,7 @@
       "Life Required": "S+1,000+",
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "Yes",
-      "Bok Multiplier": "Book of Knowledge +5,000"
+      "Affects these Items/Multipliers": "Book of Knowledge +5,000"
     }
   },
   {
@@ -30131,7 +30131,7 @@
       "Sacrifice Proof": "No",
       "Cost": "720 Shards",
       "Sell Value": "26 Shards",
-      "Bok Multiplier": "Dreamer's Blight +500 (once)",
+      "Affects these Items/Multipliers": "Dreamer's Blight +500 (once)",
       "MPU": "x1.82"
     }
   },
@@ -30517,7 +30517,7 @@
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "No",
       "Cost": "''See Item Requirements''",
-      "Bok Multiplier": "Book of Knowledge +8,000 · Elysium Solemnity -100,000",
+      "Affects these Items/Multipliers": "Book of Knowledge +8,000 · Elysium Solemnity -100,000",
       "MPU": "x1.78 (base)",
       "Life Required": "2000+",
       "Categories": "Utility"
@@ -30550,7 +30550,7 @@
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
       "Life Required": "2,000+",
-      "Bok Multiplier": "Elysium Solemnity -25,000",
+      "Affects these Items/Multipliers": "Elysium Solemnity -25,000",
       "MPU": "Max: 2.372x",
       "Categories": "Utility"
     }
@@ -30659,7 +30659,7 @@
       "Sacrifice Proof": "No",
       "Cost": "Can't Buy",
       "Sell Value": "Can't Sell",
-      "Bok Multiplier": "Book of Knowledge +3,500",
+      "Affects these Items/Multipliers": "Book of Knowledge +3,500",
       "MPU": "x2.22 (max)"
     }
   },
@@ -30690,7 +30690,7 @@
       "Sacrifice Proof": "No",
       "Cost": "720 Shards",
       "Sell Value": "26 Shards",
-      "Bok Multiplier": "Book of Knowledge +2,500",
+      "Affects these Items/Multipliers": "Book of Knowledge +2,500",
       "MPU": "x1.98"
     }
   },
@@ -31131,7 +31131,7 @@
       "Sacrifice Proof": "No",
       "Cost": "200 Shards",
       "Sell Value": "10 Shards",
-      "Bok Multiplier": "Dreamer's Blight +250 (once)",
+      "Affects these Items/Multipliers": "Dreamer's Blight +250 (once)",
       "MPU": "x1.495"
     }
   },
@@ -31520,7 +31520,7 @@
       "Sell Value": "Can't Sell",
       "Reborn Proof": "Yes",
       "Sacrifice Proof": "Yes",
-      "Bok Multiplier": "Canis Processus +21 (once)",
+      "Affects these Items/Multipliers": "Canis Processus +21 (once)",
       "Date Removed": "22 October, 2025",
       "Reason": "Replaced by Ze Chef Fargieldo"
     }
