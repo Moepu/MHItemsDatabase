@@ -24224,6 +24224,21 @@
     }
   },
   {
+  "id": 1309,
+  "name": "Shiny Guarantee",
+  "description": "It's plastic.",
+  "category": "Decoration",
+  "tier": "Collectible",
+  "imageUrl": "https://static.wikia.nocookie.net/the-miners-haven-project/images/3/3c/Shiny_Guarantee.png",
+  "wikiUrl": "https://minershaven.fandom.com/wiki/Shiny_Guarantee",
+  "properties": {
+    "Tier": "Collectible",
+    "Source": "Code: ''OhSoGenerous''",
+    "Date Added": "01 April, 2026",
+    "Categories": ""
+  }
+},
+  {
     "id": 934,
     "name": "Shiny Red Gift",
     "description": "Seems fragile. Don't drop it.",
